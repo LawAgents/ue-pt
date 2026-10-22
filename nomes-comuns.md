@@ -3,7 +3,7 @@
 | nome comum | siglas | id | caminho |
 |---|---|---|---|
 | Regulamento Geral sobre a Proteção de Dados | RGPD, GDPR | regulamento-ue-2016-679 | regulamentos/2016/regulamento-ue-2016-679/regulamento-ue-2016-679.md |
-| Regulamento da Inteligência Artificial | AI Act, RIA | regulamento-ue-2024-1689 | regulamentos/2024/regulamento-ue-2024-1689/regulamento-ue-2024-1689.md |
+| Regulamento da Inteligência Artificial | Regulamento da IA, AI Act, RIA | regulamento-ue-2024-1689 | regulamentos/2024/regulamento-ue-2024-1689/regulamento-ue-2024-1689.md |
 | Regulamento dos Serviços Digitais | DSA | regulamento-ue-2022-2065 | regulamentos/2022/regulamento-ue-2022-2065/regulamento-ue-2022-2065.md |
 | Regulamento dos Mercados Digitais | DMA | regulamento-ue-2022-1925 | regulamentos/2022/regulamento-ue-2022-1925/regulamento-ue-2022-1925.md |
 | Regulamento dos Dados | Data Act | regulamento-ue-2023-2854 | regulamentos/2023/regulamento-ue-2023-2854/regulamento-ue-2023-2854.md |
