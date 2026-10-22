@@ -51,7 +51,7 @@ são de 2026-10-22.
 - Versões anteriores de um ato: o histórico fica no git, com um commit por atualização.
 - Legislação portuguesa: está em [LawAgents/pt](https://github.com/LawAgents/pt).
 
-`COBERTURA.md` e `estatisticas.html` são gerados por `python -I scripts/estatisticas.py` e não se atualizam sozinhos: refazem-se à mão depois de uma atualização.
+`COBERTURA.md` e `estatisticas.html` são gerados por `python -I scripts/estatisticas.py` e refazem-se na atualização semanal sempre que há alterações.
 
 ---
 
