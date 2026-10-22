@@ -4,30 +4,115 @@
 - Step-by-step guides in European Portuguese for non-programmers, plus a ready-made kit to build your own personal legal agent.
 - Only the Official Journal of the EU is authentic: always confirm in EUR-Lex. Scripts and plugin are MIT; the texts are EU texts, reusable with attribution.
 
-# Direito da União Europeia em português (LawAgents/ue-pt)
+# Direito da União Europeia em português
 
-## O que é este repositório, o que cobre e o que não cobre
+Os regulamentos de base e as diretivas da União Europeia em vigor, em português, convertidos do Serviço de Publicações da UE
+para markdown, com cabeçalho estruturado e ligação ao EUR-Lex em cada ficheiro. Cada artigo tem o seu título. Cada diretiva traz
+a lista das leis portuguesas que a transpõem, quando essa lei está no repositório irmão
+[LawAgents/pt](https://github.com/LawAgents/pt).
 
-Este repositório guarda os regulamentos de base e as diretivas da União Europeia em vigor, em português, em markdown. É o par do repositório [LawAgents/pt](https://github.com/LawAgents/pt), que tem a legislação portuguesa. O plugin [legislacao-pt](https://github.com/LawAgents/legislacao-pt-plugin) é o mesmo para os dois: instala-se uma vez e ganha três comandos para a legislação da UE.
+Para consultar com o Claude Code só precisas de instalar o plugin [legislacao-pt](https://github.com/LawAgents/legislacao-pt-plugin),
+o mesmo da legislação portuguesa. Os dados não se instalam: o plugin lê os ficheiros deste repositório diretamente e cita a fonte
+em cada resposta, com os comandos `/lei-ue`, `/artigo-ue` e `/pesquisar-ue`.
 
-Cada ato é um ficheiro markdown, com os metadados no topo e cada artigo como título próprio (por exemplo "Artigo 17.º"). Os ficheiros ficam numa pasta por tipo e por ano do ato, por exemplo `regulamentos/2016/` e `diretivas/2019/`. Os ids seguem o formato `regulamento-ue-AAAA-N` e `diretiva-ue-AAAA-N`, com o ano em quatro dígitos e o número sem zeros à esquerda (o Regulamento (UE) 2016/679 é `regulamento-ue-2016-679`). Os atos grandes dividem-se em partes.
+> [!IMPORTANT]
+> Só o Jornal Oficial da União Europeia faz fé. Os textos daqui não substituem a publicação oficial: confirma sempre no EUR-Lex
+> pela ligação do cabeçalho antes de citar. Onde só existe o texto original, a ficha e as respostas avisam que pode ter sido
+> alterado depois.
 
-No fim de cada diretiva há uma secção "Transposição para Portugal" com as leis portuguesas que a executam. O id português só aparece quando esse diploma existe no repositório LawAgents/pt, e a ligação oficial só aparece quando o Serviço de Publicações a fornece.
+---
 
-Cobre. Os regulamentos de base e as diretivas em vigor que têm texto em português no Serviço de Publicações da União Europeia. Para cada ato escolhe-se o texto consolidado mais recente. Quando não há consolidado em português, entra o texto original, e a ficha e as respostas dizem "Texto original, sem consolidação: pode ter sido alterado depois." Numa medição de 2026-10-21 havia cerca de 4.010 atos só com o original.
+## O que contém
 
-Não cobre:
+5.439 atos em vigor, em 9.207 ficheiros (os atos grandes estão divididos em partes).
+
+| Tipo de ato | Atos |
+| --- | ---: |
+| Regulamento | 4.595 |
+| Diretiva | 844 |
+| **Total** | **5.439** |
+
+Por versão do texto:
+
+| Texto | Atos |
+| --- | ---: |
+| Original, sem consolidação | 4.009 |
+| Consolidado | 1.430 |
+
+Para cada ato escolhe-se o texto consolidado mais recente em português. Quando não há consolidado, entra o original. As contagens
+são de 2026-10-22.
+
+### O que fica de fora
 
 - Atos delegados e atos de execução.
-- Decisões.
-- Tratados.
-- Jurisprudência do Tribunal de Justiça da União Europeia.
-- Atos sem texto em português utilizável, sobretudo anteriores a 2000. Numa medição de 2026-10-21 eram cerca de 2.319 atos.
-- Atos que deixaram de estar em vigor. Ficam fora da pasta principal e a lista `revogados.md` guarda o id, o título, a data do fim de vigência e a ligação oficial.
-- Versões anteriores de um ato. O histórico fica no git, com um commit por atualização.
-- Legislação portuguesa (está em LawAgents/pt).
+- Decisões, tratados e jurisprudência do Tribunal de Justiça da União Europeia.
+- Cerca de 2.320 atos sem texto em português utilizável, sobretudo anteriores a 2000.
+- Atos que deixaram de estar em vigor: saem da pasta principal e a lista `revogados.md` guarda o id, o título, a data do fim de vigência e a ligação oficial.
+- Versões anteriores de um ato: o histórico fica no git, com um commit por atualização.
+- Legislação portuguesa: está em [LawAgents/pt](https://github.com/LawAgents/pt).
 
-Os ficheiros de índice na raiz (`nomes-comuns.md`, `indice.md`, `indice-regulamentos-*.md`, `indice-diretivas-*.md` e `revogados.md`) ajudam o agente a encontrar o ato certo sem ler tudo.
+---
+
+## Estrutura
+
+```
+regulamentos/AAAA/regulamento-ue-AAAA-N.md     um ficheiro por regulamento, por ano do ato
+diretivas/AAAA/diretiva-ue-AAAA-N.md           um ficheiro por diretiva, por ano do ato
+<ato>/<id>/<id>-<parte>.md                     atos grandes: visão geral e partes de até 70 KB
+nomes-comuns.md                                nomes e siglas (RGPD, AI Act) para o id certo
+indice.md  indice-regulamentos-*.md            índices por tipo e ano (ficheiros de até 40 KB)
+indice-diretivas-*.md
+revogados.md                                   atos que deixaram de estar em vigor
+config/                                        lista de nomes comuns e ids portugueses
+scripts/                                       o código que descarrega, converte, valida e gera os índices
+docs/kit.md                                    kit de agente legal pessoal
+```
+
+Os ids são estáveis: `regulamento-ue-2016-679` é o Regulamento (UE) 2016/679, com o ano em quatro dígitos e o número sem zeros à
+esquerda. Um ato dividido em partes tem um ficheiro de visão geral com a tabela `## Estrutura` (primeiro e último artigo de cada
+parte), e o agente abre só a parte de que precisa.
+
+No fim de cada diretiva há a secção `## Transposição para Portugal`. O id português só aparece quando esse diploma existe em
+LawAgents/pt, e a ligação oficial só aparece quando o Serviço de Publicações a fornece.
+
+---
+
+## Formato dos ficheiros
+
+Todo o ficheiro tem cabeçalho YAML e, no corpo, o título em `#` seguido do texto, com um título por artigo:
+
+```markdown
+---
+id: "regulamento-ue-2016-679"
+celex: "32016R0679"
+title: "Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, ..."
+type: "Regulamento"
+number: "2016/679"
+year: 2016
+date: 2016-04-27
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2016-05-04
+consolidated_celex: "02016R0679-20160504"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02016R0679-20160504"
+eli: "http://data.europa.eu/eli/reg/2016/679/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. ..."
+---
+```
+
+Nos textos originais, `text_version` é `original sem consolidação` e não há `last_amended` nem `consolidated_celex`. Os artigos
+sem texto na fonte (por exemplo "Não utilizado") levam a marca `*(Sem texto)*`.
+
+---
+
+## Atualização
+
+Uma tarefa do GitHub corre todos os domingos às 04:00 UTC, descarrega o que mudou no Serviço de Publicações, valida e faz um commit por
+atualização. Se algo falhar, não publica dados parciais e abre uma issue com o erro. O ensaio no GitHub (sem commit) correu sem erros e
+não encontrou alterações. Ainda não vi uma atualização real com alterações do Serviço de Publicações.
+
+---
 
 ## Passo a passo para quem não programa
 
