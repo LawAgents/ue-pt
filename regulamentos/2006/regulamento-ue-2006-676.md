@@ -1,0 +1,73 @@
+---
+id: "regulamento-ue-2006-676"
+celex: "32006R0676"
+title: "Regulamento (CE) n. o  676/2006 da Comissão, de  2 de Maio de 2006 , que altera o Regulamento (CE) n. o  1980/2003 que aplica o Regulamento (CE) n. o  1177/2003 do Parlamento Europeu e do Conselho relativo às estatísticas do rendimento e das condições de vida na Comunidade (EU-SILC) no que respeita às definições e às definições actualizadas   (Texto relevante para efeitos do EEE)"
+type: "Regulamento"
+number: "676/2006"
+year: 2006
+date: 2006-05-02
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32006R0676"
+eli: "http://data.europa.eu/eli/reg/2006/676/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (CE) n. o  676/2006 da Comissão, de  2 de Maio de 2006 , que altera o Regulamento (CE) n. o  1980/2003 que aplica o Regulamento (CE) n. o  1177/2003 do Parlamento Europeu e do Conselho relativo às estatísticas do rendimento e das condições de vida na Comunidade (EU-SILC) no que respeita às definições e às definições actualizadas   (Texto relevante para efeitos do EEE)
+
+## Considerandos
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 1177/2003 do Parlamento Europeu e do Conselho, de 16 de Junho de 2003, relativo às estatísticas do rendimento e das condições de vida na Comunidade (EU-SILC) (1), nomeadamente a alínea c) do n.º 2 do artigo 15.º,
+
+Considerando o seguinte:
+
+(1) O Regulamento (CE) n.º 1177/2003 cria um quadro comum para a produção sistemática de estatísticas do rendimento e das condições de vida na Comunidade, compreendendo dados transversais e longitudinais comparáveis e actualizados sobre o rendimento e sobre o nível e a composição da pobreza e da exclusão social, aos níveis nacional e europeu.
+
+(2) Em consequência da adesão de novos Estados-Membros à União Europeia em 1 de Maio de 2004, o Regulamento (CE) n.º 1177/2003 foi alterado pelo Regulamento (CE) n.º 1553/2005 do Parlamento Europeu e do Conselho (2), a fim de adaptar as dimensões das amostras e dar aos novos Estados-Membros tempo para adaptarem os respectivos sistemas a métodos e definições harmonizados para a compilação de estatísticas comunitárias.
+
+(3) Além disso, alguns dos novos Estados-Membros, bem como vários dos antigos, parecem ter necessidade de mais tempo para fornecerem todos os dados relativos ao rendimento bruto, como especificado no Regulamento (CE) n.º 1980/2003 da Comissão (3).
+
+(4) Por conseguinte, o Regulamento (CE) n.º 1980/2003 deve ser alterado em conformidade.
+
+(5) As medidas previstas no presente regulamento são conformes ao parecer do Comité do Programa Estatístico,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+No Regulamento (CE) n.º 1980/2003, o primeiro parágrafo do n.º 3 do anexo II passa a ter a seguinte redacção:
+
+«Por derrogação ao número 2, a Grécia, a Espanha, a França, a Itália, Portugal, a Polónia e a Letónia estão autorizados a não fornecer quaisquer dados sobre o rendimento bruto desde o primeiro ano da sua operação. No entanto, estes países fornecerão esses dados tão cedo quanto possível e, de qualquer modo, o mais tardar em 2007.».
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 2 de Maio de 2006.
+
+Pela Comissão
+
+Joaquín ALMUNIA
+
+Membro da Comissão
+
+(1)
+
+JO L 165 de 3.7.2003, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 1553/2005 (JO L 255 de 30.9.2005, p. 6).
+
+(2)
+
+JO L 255 de 30.9.2005, p. 6.
+
+(3)
+
+JO L 298 de 17.11.2003, p. 1.

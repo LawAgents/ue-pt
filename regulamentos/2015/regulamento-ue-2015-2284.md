@@ -1,0 +1,79 @@
+---
+id: "regulamento-ue-2015-2284"
+celex: "32015R2284"
+title: "Regulamento (UE) 2015/2284 do Parlamento Europeu e do Conselho, de 25 de novembro de 2015, que revoga a Diretiva 76/621/CEE do Conselho, relativa à fixação do teor máximo de ácido erúcico nos óleos e gorduras, e o Regulamento (CE) n.° 320/2006 do Conselho, que estabelece um regime temporário de reestruturação da indústria açucareira"
+type: "Regulamento"
+number: "2015/2284"
+year: 2015
+date: 2015-11-25
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32015R2284"
+eli: "http://data.europa.eu/eli/reg/2015/2284/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (UE) 2015/2284 do Parlamento Europeu e do Conselho, de 25 de novembro de 2015, que revoga a Diretiva 76/621/CEE do Conselho, relativa à fixação do teor máximo de ácido erúcico nos óleos e gorduras, e o Regulamento (CE) n.° 320/2006 do Conselho, que estabelece um regime temporário de reestruturação da indústria açucareira
+
+## Considerandos
+
+O PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 42.º, primeiro parágrafo, o artigo 43.º, n.º 2, e o artigo 114.º,
+
+Tendo em conta a proposta da Comissão Europeia,
+
+Após transmissão do projeto de ato legislativo aos parlamentos nacionais,
+
+Tendo em conta o parecer do Comité Económico e Social Europeu (1),
+
+Deliberando de acordo com o processo legislativo ordinário (2),
+
+Considerando o seguinte:
+
+(1) Uma maior transparência do direito da União constitui um elemento essencial da estratégia «Legislar melhor» que as instituições da União estão a pôr em prática. Nessa perspetiva, é conveniente revogar os diplomas que efetivamente deixaram de produzir efeitos.
+
+(2) Os seguintes diplomas, relativos à política agrícola comum, tornaram-se obsoletos, apesar de se manterem formalmente em vigor:
+— Diretiva 76/621/CEE do Conselho (3). O conteúdo desta diretiva foi retomado pelo Regulamento (CE) n.º 1881/2006 da Comissão (4);
+— Regulamento (CE) n.º 320/2006 do Conselho (5). A aplicabilidade do regime temporário que este regulamento estabelece cessou na campanha de comercialização de 2009/2010.
+
+(3) Por motivos de clareza e segurança jurídica, deverão ser revogados os referidos diplomas obsoletos,
+
+ADOTARAM O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+São revogados a Diretiva 76/621/CEE e o Regulamento (CE) n.º 320/2006.
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Estrasburgo, em 25 de novembro de 2015.
+
+Pelo Parlamento Europeu
+
+O Presidente
+
+M. SCHULZ
+
+Pelo Conselho
+
+O Presidente
+
+N. SCHMIT
+
+(1) Parecer de 1 de julho de 2015 (ainda não publicado no Jornal Oficial).
+
+(2) Posição do Parlamento Europeu de 27 de outubro de 2015 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 16 de novembro de 2015 (ainda não publicada no Jornal Oficial).
+
+(3) Diretiva 76/621/CEE do Conselho, de 20 de julho de 1976, relativa à fixação do teor máximo de ácido erúcico nos óleos e gorduras destinados diretamente à alimentação humana, bem como nos géneros alimentícios adicionados de óleos ou gorduras (JO L 202 de 28.7.1976, p. 35).
+
+(4) Regulamento (CE) n.º 1881/2006 da Comissão, de 19 de dezembro de 2006, que fixa os teores máximos de certos contaminantes presentes nos géneros alimentícios (JO L 364 de 20.12.2006, p. 5).
+
+(5) Regulamento (CE) n.º 320/2006 do Conselho, de 20 de fevereiro de 2006, que estabelece um regime temporário de reestruturação da indústria açucareira na Comunidade e altera o Regulamento (CE) n.º 1290/2005 relativo ao financiamento da política agrícola comum (JO L 58 de 28.2.2006, p. 42).

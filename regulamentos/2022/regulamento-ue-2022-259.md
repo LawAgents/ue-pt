@@ -1,0 +1,71 @@
+---
+id: "regulamento-ue-2022-259"
+celex: "32022R0259"
+title: "Regulamento (UE) 2022/259 do Conselho de 23 de fevereiro de 2022 que altera o Regulamento (UE) n.o 269/2014 que impõe medidas restritivas no que diz respeito a ações que comprometam ou ameacem a integridade territorial, a soberania e a independência da Ucrânia"
+type: "Regulamento"
+number: "2022/259"
+year: 2022
+date: 2022-02-23
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32022R0259"
+eli: "http://data.europa.eu/eli/reg/2022/259/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (UE) 2022/259 do Conselho de 23 de fevereiro de 2022 que altera o Regulamento (UE) n.o 269/2014 que impõe medidas restritivas no que diz respeito a ações que comprometam ou ameacem a integridade territorial, a soberania e a independência da Ucrânia
+
+## Considerandos
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 215.º,
+
+Tendo em conta a Decisão 2014/145/PESC do Conselho, de 17 de março de 2014, que impõe medidas restritivas no que diz respeito a ações que comprometam ou ameacem a integridade territorial, a soberania e a independência da Ucrânia (1),
+
+Tendo em conta a proposta conjunta do alto representante da União para os Negócios Estrangeiros e a Política de Segurança e da Comissão Europeia,
+
+Considerando o seguinte:
+
+(1) O Regulamento (UE) n.º 269/2014 do Conselho, que impõe medidas restritivas no que diz respeito a ações que comprometam ou ameacem a integridade territorial, a soberania e a independência da Ucrânia (2), dá execução às medidas restritivas previstas na Decisão 2014/145/PESC.
+
+(2) Em 23 de fevereiro de 2022, o Conselho adotou a Decisão (PESC) 2022/265, que altera a Decisão 2014/145/PESC e introduz um mecanismo de derrogação para certos operadores abrangidos pelo congelamento de ativos e pela proibição de colocar fundos e recursos económicos à sua disposição.
+
+(3) Estas alterações são abrangidas pelo âmbito de aplicação do Tratado, pelo que é necessária uma ação regulamentar a nível da União para assegurar a sua execução, nomeadamente a fim de assegurar a sua aplicação uniforme em todos os Estados-Membros.
+
+(4) O Regulamento (UE) n.º 269/2014 do Conselho deverá, por conseguinte, ser alterado em conformidade,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+O Regulamento (UE) n.º 269/2014 do Conselho é alterado do seguinte modo:
+
+Após o artigo 6.º-A é inserido o seguinte artigo:
+
+## Artigo 6.º-B
+
+1. Em derrogação dos n.ºs 1 e 2, as autoridades competentes de um Estado-Membro podem autorizar o desbloqueamento de determinados fundos ou recursos económicos congelados pertencentes às entidades enumeradas nas entradas 53, 54 e 55 no anexo I, ou a disponibilização de determinados fundos ou recursos económicos àquelas entidades, nas condições que as autoridades competentes considerem adequadas e após terem determinado que esses fundos ou recursos económicos são necessários para pôr termo, até 24 de agosto de 2022, a operações, contratos ou outros acordos, incluindo relações na qualidade de banco correspondente, celebrados com aquelas entidades antes de 23 de fevereiro de 2022. ».
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor no dia da sua publicação no Jornal Oficial da União Europeia.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 23 de fevereiro de 2022
+
+Pelo Conselho
+
+O Presidente
+
+J.-Y. LE DRIAN
+
+(1)
+
+JO L 78 de 17.3.2014, p. 16.
+
+(2) Regulamento (UE) n.º 269/2014 do Conselho, de 17 de março de 2014, que impõe medidas restritivas no que diz respeito a ações que comprometam ou ameacem a integridade territorial, a soberania e a independência da Ucrânia (JO L 78 de 17.3.2014, p. 6).

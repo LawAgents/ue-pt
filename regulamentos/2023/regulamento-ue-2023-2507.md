@@ -1,0 +1,71 @@
+---
+id: "regulamento-ue-2023-2507"
+celex: "32023R2507"
+title: "Regulamento (UE) 2023/2507 do Conselho, de 9 de novembro de 2023, que altera o Regulamento (UE) 2019/1890 que impõe medidas restritivas tendo em conta as atividades de perfuração não autorizadas levadas a cabo pela Turquia no Mediterrâneo Oriental"
+type: "Regulamento"
+number: "2023/2507"
+year: 2023
+date: 2023-11-09
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32023R2507"
+eli: "http://data.europa.eu/eli/reg/2023/2507/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (UE) 2023/2507 do Conselho, de 9 de novembro de 2023, que altera o Regulamento (UE) 2019/1890 que impõe medidas restritivas tendo em conta as atividades de perfuração não autorizadas levadas a cabo pela Turquia no Mediterrâneo Oriental
+
+## Considerandos
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 215.º,
+
+Tendo em conta a Decisão (PESC) 2023/2488 do Conselho, de 9 de novembro de 2023, que altera a Decisão (PESC) 2019/1894 que impõe medidas restritivas tendo em conta as atividades de perfuração não autorizadas levadas a cabo pela Turquia no Mediterrâneo Oriental (1),
+
+Tendo em conta a proposta conjunta do alto representante da União para os Negócios Estrangeiros e a Política de Segurança e da Comissão Europeia,
+
+Considerando o seguinte:
+
+(1) O Regulamento (UE) 2019/1890 do Conselho (2) dá execução às medidas restritivas previstas na Decisão (PESC) 2019/1894 do Conselho (3).
+
+(2) A Decisão (PESC) 2023/2488 altera a versão em língua inglesa do título da Decisão (PESC) 2019/1894.
+
+(3) Por conseguinte, o Regulamento (UE) 2019/1890 deverá ser alterado em conformidade,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+O título do Regulamento (UE) 2019/1890 passa a ter a seguinte redação:
+
+(Não diz respeito à versão portuguesa).
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 9 de novembro de 2023.
+
+Pelo Conselho
+
+A Presidente
+
+N. CALVIÑO SANTAMARÍA
+
+(1)
+
+JO L, 2023/2488, 10.11.2023, ELI: http://data.europa.eu/eli/dec/2023/2488/oj
+
+(2) Regulamento (UE) 2019/1890 do Conselho, de 11 de novembro de 2019, que impõe medidas restritivas tendo em conta as atividades de perfuração não autorizadas levadas a cabo pela Turquia no Mediterrâneo Oriental (JO L 291 de 12.11.2019, p. 3).
+
+(3) Decisão (PESC) 2019/1894 do Conselho, de 11 de novembro de 2019, que impõe medidas restritivas tendo em conta as atividades de perfuração não autorizadas levadas a cabo pela Turquia no Mediterrâneo Oriental (JO L 291 de 12.11.2019, p. 47).
+
+ELI: http://data.europa.eu/eli/reg/2023/2507/oj
+
+ISSN 1977-0774 (electronic edition)

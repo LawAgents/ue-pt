@@ -1,0 +1,65 @@
+---
+id: "regulamento-ue-2008-1360"
+celex: "32008R1360"
+title: "Regulamento (CE) n. o  1360/2008 do Conselho, de 2 de Dezembro de 2008 , que altera o Regulamento (CE) n. o  332/2002 que estabelece um mecanismo de apoio financeiro a médio prazo às balanças de pagamentos dos Estados-Membros"
+type: "Regulamento"
+number: "1360/2008"
+year: 2008
+date: 2008-12-02
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32008R1360"
+eli: "http://data.europa.eu/eli/reg/2008/1360/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (CE) n. o  1360/2008 do Conselho, de 2 de Dezembro de 2008 , que altera o Regulamento (CE) n. o  332/2002 que estabelece um mecanismo de apoio financeiro a médio prazo às balanças de pagamentos dos Estados-Membros
+
+## Considerandos
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 308.º,
+
+Tendo em conta a proposta da Comissão, apresentada após consulta ao Comité Económico e Financeiro,
+
+Tendo em conta o parecer do Parlamento Europeu,
+
+Tendo em conta o parecer do Banco Central Europeu,
+
+Considerando o seguinte:
+
+(1) O grande número de Estados-Membros que não pertencem actualmente à área do euro afecta a potencial procura de apoio financeiro comunitário a médio prazo e, juntamente com a evolução da situação internacional, implica um aumento significativo do limite máximo do montante de empréstimos que podem ser concedidos aos Estados-Membros fixado no Regulamento (CE) n.º 332/2002 (1), que deverá passar de 12 mil milhões de EUR para 25 mil milhões de EUR. Caso seja necessário rever o limite máximo com carácter de urgência, as instituições competentes deverão proceder com celeridade no respeito das competências respectivas.
+
+(2) O Regulamento (CE) n.º 332/2002 deverá, por conseguinte, ser alterado,
+
+APROVOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+O Regulamento (CE) n.º 332/2002 é alterado do seguinte modo:
+
+O segundo parágrafo do n.º 1 do artigo 1.º passa a ter a seguinte redacção:
+
+«O montante dos empréstimos que podem ser concedidos aos Estados-Membros ao abrigo deste mecanismo está limitado a 25 mil milhões de EUR em capital.».
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 2 de Dezembro de 2008.
+
+Pelo Conselho
+
+A Presidente
+
+C. LAGARDE
+
+(1)
+
+JO L 53 de 23.2.2002, p. 1.

@@ -1,0 +1,41 @@
+---
+id: "regulamento-ue-2009-1051"
+celex: "32009R1051"
+title: "Regulamento (CE) n. o  1051/2009 da Comissão, de 3 de Novembro de 2009 , relativo à classificação de certas mercadorias na Nomenclatura Combinada"
+type: "Regulamento"
+number: "1051/2009"
+year: 2009
+date: 2009-11-03
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2017-09-06
+consolidated_celex: "02009R1051-20170906"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02009R1051-20170906"
+eli: "http://data.europa.eu/eli/reg/2009/1051/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (CE) n. o  1051/2009 da Comissão, de 3 de Novembro de 2009 , relativo à classificação de certas mercadorias na Nomenclatura Combinada
+
+## Artigo 1.º
+
+As mercadorias descritas na coluna 1 do quadro em anexo devem ser classificadas na Nomenclatura Combinada nos códigos NC correspondentes, indicados na coluna 2 do referido quadro.
+
+## Artigo 2.º
+
+As informações pautais vinculativas emitidas pelas autoridades aduaneiras dos Estados-Membros que não estão em conformidade com o presente regulamento podem continuar a ser invocadas, de acordo com o disposto no n.º 6 do artigo 12.º do Regulamento (CEE) n.º 2913/92, durante um período de três meses.
+
+## Artigo 3.º
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+## Anexo
+
+| Designação das mercadorias |  | Fundamentos |
+|---|---|---|
+| (1) | (2) | (3) |
+| 1. Veículo novo de quatro rodas (denominado «veículo todo-o-terreno») com motor de êmbolo de ignição por faísca, com uma potência aproximada de 15 kW e uma massa a seco de, aproximadamente, 310 kg. <br> O veículo tem as seguintes características: <br> — um banco único, de comprimento aproximado de 600 mm, que se destina unicamente ao condutor, <br> — um sistema de direcção do tipo dos automóveis, baseado no princípio de Ackerman, comandado por um guiador, <br> — travões nas rodas dianteiras e traseiras, <br> — embraiagem automática e marcha-atrás, <br> — um motor especialmente concebido para utilização em terrenos difíceis e capaz de fornecer potência suficiente na relação de transmissão baixa, <br> — um veio de transmissão de potência às rodas traseiras, <br> — pneumáticos com desenho de piso profundo adequado a utilização fora de estrada, <br> — um orifício com acessórios para conexão de diversos dispositivos de engate, <br> — capacidade de tracção de cerca de 1 170 kg (não travado), e <br> — um guincho fixo, adequado ao reboque de toros. <br> O veículo é concebido essencialmente para executar trabalhos florestais. <br> Os vários dispositivos de engate apresentam-se juntamente com o veículo. | 8701 90 11 | A classificação é determinada pelas disposições das Regras Gerais 1 e 6 para a interpretação da Nomenclatura Combinada, pela Nota 2 do Capítulo 87 e pelos descritivos dos códigos NC 8701 , 8701 90 e 8701 90 11 . <br> Dado que o veículo possui um orifício com acessórios para a conexão de diversos dispositivos de engate e um veio de transmissão às rodas, é concebido para executar trabalhos em terrenos difíceis e empurrar ou rebocar outros veículos, instrumentos ou cargas (Nota 2 do Capítulo 87). <br> Está excluída a classificação na posição 8703 , dado que o veículo satisfaz a definição da Nota 2 do Capítulo 87 e tem capacidade para rebocar ou empurrar de, pelo menos, duas vezes a sua própria massa em vazio (não travado). (Ver também as notas explicativas da Nomenclatura Combinada respeitantes às subposições 8701 90 11 a 8701 90 90 ). <br> O guincho confere ao veículo a característica de tractor florestal (ver também as notas explicativas da Nomenclatura Combinada respeitantes às subposições 8701 90 11 a 8701 90 50 .) <br> Portanto, o veículo deve ser classificado no código NC 8701 90 11 . |
+| ————— |  |  |

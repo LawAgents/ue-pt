@@ -1,0 +1,71 @@
+---
+id: "regulamento-ue-2008-569"
+celex: "32008R0569"
+title: "Regulamento (CE) n. o  569/2008 do Conselho, de 12 de Junho de 2008 , que altera o Regulamento n. o  11 relativo à supressão de discriminações em matéria de preços e condições de transporte, em execução do disposto no n. o  3 do artigo 79. o do Tratado que institui a Comunidade Económica Europeia"
+type: "Regulamento"
+number: "569/2008"
+year: 2008
+date: 2008-06-12
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32008R0569"
+eli: "http://data.europa.eu/eli/reg/2008/569/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (CE) n. o  569/2008 do Conselho, de 12 de Junho de 2008 , que altera o Regulamento n. o  11 relativo à supressão de discriminações em matéria de preços e condições de transporte, em execução do disposto no n. o  3 do artigo 79. o do Tratado que institui a Comunidade Económica Europeia
+
+## Considerandos
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 3 do artigo 75.º,
+
+Tendo em conta a proposta da Comissão,
+
+Tendo em conta o parecer do Comité Económico e Social Europeu (1),
+
+Considerando que as disposições comunitárias constantes do artigo 75.º do Tratado CE sobre a supressão de certas discriminações no que respeita aos transportes terrestres na Comunidade foram definidas no Regulamento n.º 11 (2). A fim de reduzir os encargos administrativos que pesam sobre as empresas, aquele regulamento deverá ser simplificado, através da supressão de exigências obsoletas e desnecessárias, designadamente a de conservar certas informações que, em virtude do progresso tecnológico, estão agora disponíveis nos sistemas contabilísticos dos transportadores,
+
+APROVOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+O Regulamento n.º 11 é alterado do seguinte modo:
+
+1. O artigo 5.º é suprimido.
+
+2. O artigo 6.º é alterado do seguinte modo:
+
+a) São suprimidos o quinto e o sexto travessões do n.º 1;
+
+b) É suprimido o terceiro período do n.º 2;
+
+c) O n.º 3 passa a ter a seguinte redacção:
+
+«3. Sempre que os documentos existentes, como guias de remessa ou qualquer outro documento de transporte, contenham todas as indicações referidas no n.º 1 e tornem possível, conjuntamente com o sistema de registo e a contabilidade dos transportadores, uma verificação completa dos preços e condições de transporte que permita suprimir ou evitar as discriminações referidas no n.º 1 do artigo 75.º do Tratado, os transportadores não são obrigados a utilizar novos documentos.».
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+Feito no Luxemburgo, em 12 de Junho de 2008.
+
+Pelo Conselho
+
+O Presidente
+
+A. VIZJAK
+
+(1)
+
+JO C 175 de 27.7.2007, p. 37.
+
+(2)
+
+JO 52 de 16.8.1960, p. 1121/60. (Edição especial portuguesa: Capítulo 7, Fascículo 1, p. 32) Regulamento alterado pelo Regulamento (CEE) n.º 3626/84 (JO L 335 de 22.12.1984, p. 4).

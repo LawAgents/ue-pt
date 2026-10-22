@@ -1,0 +1,92 @@
+---
+id: "regulamento-ue-2007-337"
+celex: "32007R0337"
+title: "Regulamento (CE, Euratom) n. o  337/2007 do Conselho, de 27 de Março de 2007 , que adapta, a partir de 1 de Janeiro de 2007 , a tabela aplicável às deslocações em serviço dos funcionários e outros agentes das Comunidades Europeias efectuadas na Bulgária e na Roménia"
+type: "Regulamento"
+number: "337/2007"
+year: 2007
+date: 2007-03-27
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32007R0337"
+eli: "http://data.europa.eu/eli/reg/2007/337/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (CE, Euratom) n. o  337/2007 do Conselho, de 27 de Março de 2007 , que adapta, a partir de 1 de Janeiro de 2007 , a tabela aplicável às deslocações em serviço dos funcionários e outros agentes das Comunidades Europeias efectuadas na Bulgária e na Roménia
+
+## Considerandos
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia da Energia Atómica,
+
+Tendo em conta o Estatuto dos funcionários das Comunidades Europeias e o Regime aplicável aos outros agentes das Comunidades Europeias, fixados no Regulamento (CEE, Euratom, CECA) n.º 259/68 (1), nomeadamente o artigo 13.º do anexo VII do Estatuto,
+
+Tendo em conta a proposta da Comissão,
+
+Considerando o seguinte:
+
+Devido à adesão da República da Bulgária e da Roménia à União Europeia em 1 de Janeiro de 2007, o reembolso das despesas de deslocações em serviço efectuadas nestes países aos funcionários e outros agentes deverá ser, a partir dessa data, sujeito ao regime constante do artigo 13.º do anexo VII do Estatuto,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+A tabela relativa ao reembolso das despesas de deslocações em serviço constante da alínea a) do n.º 2 do artigo 13.º do anexo VII do Estatuto é substituída pela seguinte tabela:
+
+| (em EUR) |  |  |
+|---|---|---|
+| Destino | Limite máximo para despesas de alojamento (hotel) | Ajudas de custo (diárias) por deslocação em serviço |
+| Bélgica | 140 | 92 |
+| Bulgária | 169 | 58 |
+| República Checa | 155 | 75 |
+| Dinamarca | 150 | 120 |
+| Alemanha | 115 | 93 |
+| Estónia | 110 | 71 |
+| Grécia | 140 | 82 |
+| Espanha | 125 | 87 |
+| França | 150 | 95 |
+| Irlanda | 150 | 104 |
+| Itália | 135 | 95 |
+| Chipre | 145 | 93 |
+| Letónia | 145 | 66 |
+| Lituânia | 115 | 68 |
+| Luxemburgo | 145 | 92 |
+| Hungria | 150 | 72 |
+| Malta | 115 | 90 |
+| Países Baixos | 170 | 93 |
+| Áustria | 130 | 95 |
+| Polónia | 145 | 72 |
+| Portugal | 120 | 84 |
+| Roménia | 170 | 52 |
+| Eslovénia | 110 | 70 |
+| Eslováquia | 125 | 80 |
+| Finlândia | 140 | 104 |
+| Suécia | 160 | 97 |
+| Reino Unido | 175 | 101 |
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+É aplicável com efeitos desde 1 de Janeiro de 2007.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 27 de Março de 2007.
+
+Pelo Conselho
+
+O Presidente
+
+P. STEINBRÜCK
+
+(1)
+
+JO L 56 de 4.3.1968, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE, Euratom) n.º 1066/2006 (JO L 194 de 14.7.2006, p. 1).

@@ -1,0 +1,65 @@
+---
+id: "regulamento-ue-2012-611"
+celex: "32012R0611"
+title: "Regulamento (UE) n. ° 611/2012 da Comissão, de 9 de julho de 2012 , que altera o anexo II do Regulamento (CE) n. ° 1073/2009 do Parlamento Europeu e do Conselho que estabelece regras comuns para o acesso ao mercado internacional dos serviços de transporte em autocarro  Texto relevante para efeitos do EEE"
+type: "Regulamento"
+number: "611/2012"
+year: 2012
+date: 2012-07-09
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32012R0611"
+eli: "http://data.europa.eu/eli/reg/2012/611/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (UE) n. ° 611/2012 da Comissão, de 9 de julho de 2012 , que altera o anexo II do Regulamento (CE) n. ° 1073/2009 do Parlamento Europeu e do Conselho que estabelece regras comuns para o acesso ao mercado internacional dos serviços de transporte em autocarro  Texto relevante para efeitos do EEE
+
+## Considerandos
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 1073/2009 do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que estabelece regras comuns para o acesso ao mercado internacional dos serviços de transporte em autocarro e que altera o Regulamento (CE) n.º 561/2006 (1), nomeadamente o artigo 4.º, n.º 2,
+
+Considerando o seguinte:
+
+(1) A cor do modelo de licença comunitária é definida como «cor Pantone azul-clara» no anexo II do Regulamento (CE) n.º 1073/2009.
+
+(2) A fim de promover a homogeneidade, bem como a interpretação e a aplicação uniformes do Regulamento (CE) n.º 1073/2009, a referida cor necessita de ser especificada com maior precisão.
+
+(3) As medidas previstas no presente regulamento são conformes com o parecer do Comité a que se refere o artigo 26.º do Regulamento (CE) n.º 1073/2009,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+No anexo II do Regulamento (CE) n.º 1073/2009, na quarta linha, a frase «Papel de cor Pantone azul-clara, formato DIN A4, celulósico ≥ 100 g/m2
+
+» passa a ter a seguinte redação:
+
+«Papel de cor Pantone azul-clara 290, ou o mais próximo possível desta cor, formato DIN A4 celulósico ≥ 100 g/m2
+
+».
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 9 de julho de 2012.
+
+Pela Comissão
+
+O Presidente
+
+José Manuel BARROSO
+
+(1)
+
+JO L 300 de 14.11.2009, p. 88.

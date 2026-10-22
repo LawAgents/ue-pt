@@ -1,0 +1,30 @@
+---
+id: "regulamento-ue-2010-709"
+celex: "32010R0709"
+title: "Regulamento (UE) n. ° 709/2010 da Comissão, de 22 de Julho de 2010 , que altera o Regulamento (CE) n. ° 338/97 do Conselho relativo à protecção de espécies da fauna e da flora selvagens através do controlo do seu comércio"
+type: "Regulamento"
+number: "709/2010"
+year: 2010
+date: 2010-07-22
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32010R0709"
+eli: "http://data.europa.eu/eli/reg/2010/709/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (UE) n. ° 709/2010 da Comissão, de 22 de Julho de 2010 , que altera o Regulamento (CE) n. ° 338/97 do Conselho relativo à protecção de espécies da fauna e da flora selvagens através do controlo do seu comércio
+
+Este ato está dividido em partes. Cada parte é um ficheiro; os números de artigo são únicos dentro de cada ficheiro.
+
+| parte | caminho | primeiro artigo | último artigo |
+|---|---|---|---|
+| Considerandos a Assinatura | regulamentos/2010/regulamento-ue-2010-709/regulamento-ue-2010-709-considerandos-a-assinatura.md | 1.º | 2.º |
+| Anexo | regulamentos/2010/regulamento-ue-2010-709/regulamento-ue-2010-709-anexo.md |  |  |
+
+## Estrutura
+
+- Considerandos (regulamento-ue-2010-709-considerandos-a-assinatura.md)
+- Assinatura (regulamento-ue-2010-709-considerandos-a-assinatura.md)
+- Anexo (regulamento-ue-2010-709-anexo.md)

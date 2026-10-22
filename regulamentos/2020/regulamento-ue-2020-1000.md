@@ -1,0 +1,65 @@
+---
+id: "regulamento-ue-2020-1000"
+celex: "32020R1000"
+title: "Regulamento (UE) 2020/1000 da Comissão de 9 de julho de 2020 que retifica determinadas versões linguísticas do Regulamento (UE) n.o 1253/2014 que aplica a Diretiva 2009/125/CE do Parlamento Europeu e do Conselho no que diz respeito aos requisitos de conceção ecológica das unidades de ventilação (Texto relevante para efeitos do EEE)"
+type: "Regulamento"
+number: "2020/1000"
+year: 2020
+date: 2020-07-09
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32020R1000"
+eli: "http://data.europa.eu/eli/reg/2020/1000/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (UE) 2020/1000 da Comissão de 9 de julho de 2020 que retifica determinadas versões linguísticas do Regulamento (UE) n.o 1253/2014 que aplica a Diretiva 2009/125/CE do Parlamento Europeu e do Conselho no que diz respeito aos requisitos de conceção ecológica das unidades de ventilação (Texto relevante para efeitos do EEE)
+
+## Considerandos
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta a Diretiva 2009/125/CE do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, relativa à criação de um quadro para definir os requisitos de conceção ecológica dos produtos relacionados com o consumo de energia (1), nomeadamente o artigo 15.º, n.º 1,
+
+Considerando o seguinte:
+
+(1) As versões nas línguas alemã, búlgara, checa, croata, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, grega, húngara, italiana, letã, lituana, maltesa, neerlandesa, polaca e sueca do Regulamento (UE) n.º 1253/2014 da Comissão (2) contêm erros no artigo 1.º, n.º 2, alínea g), no que diz respeito às unidades de ventilação que estão excluídas do seu âmbito de aplicação. Esses erros afetam o conteúdo dessa disposição.
+
+(2) A versão maltesa do Regulamento (UE) n.º 1253/2014 também contém um erro no artigo 1.º, n.º 2, alínea h), no que diz respeito às unidades de ventilação que estão excluídas do seu âmbito de aplicação. Esse erro afeta o conteúdo dessa disposição.
+
+(3) A versão sueca do Regulamento (UE) n.º 1253/2014 contém um erro adicional no ponto 1.9) do anexo I, no ponto 1.º) do anexo IV e no ponto 1.º) do anexo V no que diz respeito a um dos termos definidos para efeitos dos anexos II a IX. Esse erro afeta o conteúdo dessas disposições.
+
+(4) As versões nas línguas alemã, búlgara, checa, croata, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, grega, húngara, italiana, letã, lituana, maltesa, neerlandesa, polaca e sueca do Regulamento (UE) n.º 1253/2014 devem, por conseguinte, ser retificadas em conformidade. As restantes versões linguísticas não são afetadas.
+
+(5) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité instituído pelo artigo 19.º, n.º 1, da Diretiva 2009/125/CE,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+(não diz respeito à versão portuguesa)
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 9 de julho de 2020.
+
+Pela Comissão
+
+A Presidente
+
+Ursula VON DER LEYEN
+
+(1)
+
+JO L 285 de 31.10.2009, p. 10.
+
+(2) Regulamento (UE) n.º 1253/2014 da Comissão, de 7 de julho de 2014, que aplica a Diretiva 2009/125/CE do Parlamento Europeu e do Conselho no que diz respeito aos requisitos de conceção ecológica das unidades de ventilação (JO L 337 de 25.11.2014, p. 8).

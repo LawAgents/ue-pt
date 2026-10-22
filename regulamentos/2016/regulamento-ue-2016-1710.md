@@ -1,0 +1,71 @@
+---
+id: "regulamento-ue-2016-1710"
+celex: "32016R1710"
+title: "Regulamento (UE) 2016/1710 do Conselho, de 27 de setembro de 2016, que altera o Regulamento (CE) n.° 2580/2001 relativo a medidas restritivas específicas de combate ao terrorismo dirigidas contra determinadas pessoas e entidades"
+type: "Regulamento"
+number: "2016/1710"
+year: 2016
+date: 2016-09-27
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32016R1710"
+eli: "http://data.europa.eu/eli/reg/2016/1710/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (UE) 2016/1710 do Conselho, de 27 de setembro de 2016, que altera o Regulamento (CE) n.° 2580/2001 relativo a medidas restritivas específicas de combate ao terrorismo dirigidas contra determinadas pessoas e entidades
+
+## Considerandos
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 215.º,
+
+Tendo em conta a Decisão (PESC) 2016/1711 que altera a Posição Comum 2001/931/PESC (1),
+
+Tendo em conta a proposta conjunta da Alta Representante da União para os Negócios Estrangeiros e a Política de Segurança e da Comissão Europeia,
+
+Considerando o seguinte:
+
+(1) O Regulamento (CE) n.º 2580/2001 do Conselho (2) dá execução à Posição Comum 2001/931/PESC (3).
+
+(2) Em 27 de setembro de 2016, o Conselho adotou a Decisão (PESC) 2016/1711 do Conselho que altera a Posição Comum 2001/931/PESC. A Decisão (PESC) 2016/1711 do Conselho suspende a aplicação da obrigação de congelar os ativos das «Fuerzas armadas revolucionarias de Colômbia» — «FARC» (Forças Armadas Revolucionárias da Colômbia) e suspende a proibição de disponibilizar fundos e recursos económicos a essa entidade.
+
+(3) É necessária uma ação regulamentar a nível da União, nomeadamente a fim de garantir a sua aplicação uniforme pelos operadores económicos em todos os Estados-Membros.
+
+(4) Por conseguinte, o Regulamento (CE) n.º 2580/2001 deverá ser alterado.
+
+(5) A fim de garantir a eficácia das medidas nele previstas, o presente regulamento deverá entrar em vigor imediatamente,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+O Regulamento (CE) n.º 2580/2001 é alterado do seguinte modo:
+
+Ao artigo 2.º é aditado o seguinte número:
+
+«4. As medidas previstas nos pontos 1 e 2 são suspensas no que diz respeito às “Fuerzas armadas revolucionarias de Colômbia” — “FARC” (Forças Armadas Revolucionárias da Colômbia).».
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor no dia da sua publicação no Jornal Oficial da União Europeia.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 27 de setembro de 2016.
+
+Pelo Conselho
+
+A Presidente
+
+F. MOGHERINI
+
+(1) Decisão (PESC) 2016/1711 do Conselho, de 27 de setembro de 2016, que altera a Posição Comum 2001/931/PESC relativa à aplicação de medidas específicas de combate ao terrorismo (ver página 3 do presente Jornal Oficial).
+
+(2) Regulamento (CE) n.º 2580/2001 do Conselho, de 27 de dezembro de 2001, relativo a medidas restritivas específicas de combate ao terrorismo dirigidas contra determinadas pessoas e entidades (JO L 344 de 28.12.2001, p. 70).
+
+(3) Posição Comum 2001/931/PESC do Conselho, de 27 de dezembro de 2001, relativa à aplicação de medidas específicas de combate ao terrorismo (JO L 344 de 28.12.2001, p. 93).

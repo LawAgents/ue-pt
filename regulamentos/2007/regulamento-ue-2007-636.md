@@ -1,0 +1,61 @@
+---
+id: "regulamento-ue-2007-636"
+celex: "32007R0636"
+title: "Regulamento (CE) n. o  636/2007 da Comissão, de 7 de Junho de 2007 , que derroga ao anexo do Regulamento n. o  79/65/CEE do Conselho no que diz respeito à lista das circunscrições da Roménia"
+type: "Regulamento"
+number: "636/2007"
+year: 2007
+date: 2007-06-07
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32007R0636"
+eli: "http://data.europa.eu/eli/reg/2007/636/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (CE) n. o  636/2007 da Comissão, de 7 de Junho de 2007 , que derroga ao anexo do Regulamento n. o  79/65/CEE do Conselho no que diz respeito à lista das circunscrições da Roménia
+
+## Considerandos
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado de Adesão da Bulgária e da Roménia,
+
+Tendo em conta o Acto de Adesão da Bulgária e da Roménia, nomeadamente o artigo 41, n.º 1,
+
+Considerando o seguinte:
+
+(1) O anexo do Regulamento n.º 79/65/CEE do Conselho, de 15 de Junho de 1965, que cria uma rede de informação contabilística agrícola sobre os rendimentos e a economia das explorações agrícolas na Comunidade Económica Europeia (1), estabelece uma lista de circunscrições, na acepção da alínea d) do artigo 2.º daquele regulamento.
+
+(2) De acordo com esse anexo, a Roménia encontra-se dividida em oito circunscrições. Na sequência de um pedido apresentado pela Roménia, para efeitos do Regulamento n.º 79/65/CEE, este Estado-Membro deve ser considerado uma única circunscrição nos três primeiros anos da sua adesão à União Europeia, de modo a facilitar a definição de um plano de selecção realista.
+
+(3) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Comunitário da Rede de Informação Contabilística Agrícola,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+Em derrogação ao disposto no anexo do Regulamento n.º 79/65/CEE, para efeitos da aplicação do mesmo regulamento, a Roménia constituirá uma única circunscrição até 31 de Dezembro de 2009.
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+É aplicável a partir do exercício contabilístico de 2007.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 7 de Junho de 2007.
+
+Pela Comissão
+
+Mariann FISCHER BOEL
+
+Membro da Comissão
+
+(1)
+
+JO 109 de 23.6.1965, p. 1859/65. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1791/2006 (JO L 363 de 20.12.2006, p. 1).

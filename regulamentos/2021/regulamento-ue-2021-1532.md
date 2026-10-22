@@ -1,0 +1,87 @@
+---
+id: "regulamento-ue-2021-1532"
+celex: "32021R1532"
+title: "Regulamento (UE) 2021/1532 da Comissão de 17 de setembro de 2021 que altera o anexo I do Regulamento (CE) n.o 1334/2008 do Parlamento Europeu e do Conselho no que diz respeito à inclusão de 3-(1-((3,5-dimetilisoxazol-4-il)metil)-1H-pirazol-4-il)-1-(3-hidroxibenzil)imidazolidina-2,4-diona na lista da União de substâncias aromatizantes (Texto relevante para efeitos do EEE)"
+type: "Regulamento"
+number: "2021/1532"
+year: 2021
+date: 2021-09-17
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32021R1532"
+eli: "http://data.europa.eu/eli/reg/2021/1532/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (UE) 2021/1532 da Comissão de 17 de setembro de 2021 que altera o anexo I do Regulamento (CE) n.o 1334/2008 do Parlamento Europeu e do Conselho no que diz respeito à inclusão de 3-(1-((3,5-dimetilisoxazol-4-il)metil)-1H-pirazol-4-il)-1-(3-hidroxibenzil)imidazolidina-2,4-diona na lista da União de substâncias aromatizantes (Texto relevante para efeitos do EEE)
+
+## Considerandos
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 1334/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo aos aromas e a determinados ingredientes alimentares com propriedades aromatizantes utilizados nos e sobre os géneros alimentícios e que altera o Regulamento (CEE) n.º 1601/91 do Conselho, os Regulamentos (CE) n.º 2232/96 e (CE) n.º 110/2008 e a Diretiva 2000/13/CE (1), nomeadamente o artigo 11.º, n.º 3,
+
+Tendo em conta o Regulamento (CE) n.º 1331/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, que estabelece um procedimento de autorização comum aplicável a aditivos alimentares, enzimas alimentares e aromas alimentares (2), nomeadamente o artigo 7.º, n.º 5,
+
+Considerando o seguinte:
+
+(1) O anexo I do Regulamento (CE) n.º 1334/2008 estabelece uma lista da União de aromas e materiais de base autorizados para utilização nos e sobre os géneros alimentícios e as respetivas condições de utilização.
+
+(2) O Regulamento de Execução (UE) n.º 872/2012 da Comissão (3) adotou a lista de substâncias aromatizantes e incluiu essa lista na parte A do anexo I do Regulamento (CE) n.º 1334/2008.
+
+(3) Essa lista pode ser atualizada em conformidade com o procedimento comum referido no artigo 3.º, n.º 1, do Regulamento (CE) n.º 1331/2008, quer por iniciativa da Comissão quer na sequência de um pedido apresentado por um Estado-Membro ou por uma parte interessada.
+
+(4) Em 10 de agosto de 2012, foi apresentado um pedido à Comissão para a autorização da utilização de 3-(1-((3,5-dimetilisoxazol-4-il)metil)-1H-pirazol-4-il)-1-(3-hidroxibenzil)imidazolidina-2,4-diona (n.º FL 16.127) como substância aromatizante em vários alimentos, abrangidos, em essência, por, várias categorias de alimentos referidas na lista da União de aromas e materiais de base. A Comissão notificou a Autoridade Europeia para a Segurança dos Alimentos («Autoridade») do pedido e solicitou o seu parecer. A Comissão também disponibilizou o pedido aos. Estados-Membros, em conformidade com o artigo 4.º do Regulamento (CE) n.º 1331/2008.
+
+(5) No seu parecer adotado em 21 de junho de 2016 (4), a Autoridade avaliou a segurança da substância com o n.º FL 16.127 e concluiu que a sua utilização não suscita preocupações de segurança quando os níveis não ultrapassam os teores máximos definidos para vários alimentos de diferentes categorias. A Autoridade também observou que se trata de uma substância com propriedades de alteração do aroma.
+
+(6) Uma vez que a utilização da substância com o n.º FL 16.127 como substância aromatizante não suscita preocupações de segurança nas condições de utilização especificadas e que não se prevê que induza o consumidor em erro, é adequado autorizar essa utilização à luz do parecer da Autoridade.
+
+(7) A parte A do anexo I do Regulamento (CE) n.º 1334/2008 deve, pois, ser alterada em conformidade.
+
+(8) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+O anexo I, parte A, do Regulamento (CE) n.º 1334/2008 é alterado em conformidade com o anexo do presente regulamento.
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 17 de setembro de 2021.
+
+Pela Comissão
+
+A Presidente
+
+Ursula VON DER LEYEN
+
+(1)
+
+JO L 354 de 31.12.2008, p. 34.
+
+(2)
+
+JO L 354 de 31.12.2008, p. 1.
+
+(3) Regulamento de Execução (UE) n.º 872/2012 da Comissão, de 1 de outubro de 2012, que adota a lista das substâncias aromatizantes prevista no Regulamento (CE) n.º 2232/96 do Parlamento Europeu e do Conselho, inclui essa lista no anexo I do Regulamento (CE) n.º 1334/2008 do Parlamento Europeu e do Conselho e revoga o Regulamento (CE) n.º 1565/2000 e a Decisão 1999/217/CE (JO L 267 de 2.10.2012, p. 1).
+
+(4)
+
+EFSA Journal 2016;14(7):4334.
+
+## Anexo
+
+No anexo I, parte A, secção 2, quadro 1, do Regulamento (CE) n.º 1334/2008, é inserida, após a entrada 16.126, a seguinte entrada relativa ao n.º FL 16.127:
+
+<table> <tbody> <tr> <td>«16.127</td> <td>3-(1-((3,5-dimetilisoxazol-4-il)metil)-1H-pirazol-4-il)-1-(3-hidroxibenzil)imidazolidina-2,4-diona</td> <td>1119831-25-2</td> <td>2161</td> <td></td> <td>no mínimo 99%, ensaio (HPLC/UV)</td> <td>Restrições de utilização como substância aromatizante: <table> <tbody> <tr> <td></td> <td>Na categoria 1.4 – não mais de 4 mg/kg</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 1.8 – não mais de 8 mg/kg</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 3 – não mais de 4 mg/kg</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 5.1 – não mais de 15 mg/kg</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 5.2 – não mais de 16 mg/kg</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 5.3 – não mais de 30 mg/kg</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 5.4 – não mais de 15 mg/kg</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 6.3 – não mais de 25 mg/kg</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 12.1 – não mais de 75 mg/kg</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 12.2 – não mais de 100 mg/kg</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 12.3 – não mais de 25 mg/kg</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 12.4 – não mais de 25 mg/kg</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 12.5 – não mais de 4 mg/kg</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 13.2 – não mais de 4 mg/kg</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 13.3 – não mais de 4 mg/kg</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 14.1.4 – não mais de 4 mg/l (apenas para bebidas à base de produtos lácteos)</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 14.1.5. – não mais de 8 mg/kg</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 15.1 – não mais de 20 mg/kg</td> </tr> </tbody> </table> <table> <tbody> <tr> <td></td> <td>Na categoria 16 – não mais de 4 mg/l (apenas para sobremesas à base de produtos lácteos)</td> </tr> </tbody> </table></td> <td></td> <td>EFSA»</td> </tr> </tbody> </table>

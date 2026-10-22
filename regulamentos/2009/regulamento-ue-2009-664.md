@@ -1,0 +1,195 @@
+---
+id: "regulamento-ue-2009-664"
+celex: "32009R0664"
+title: "Regulamento (CE) n. o  664/2009 do Conselho, de 7 de Julho de 2009 , que estabelece um procedimento para a negociação e a celebração de acordos entre Estados-Membros e países terceiros relativamente à competência, ao reconhecimento e à execução de sentenças e decisões em matéria matrimonial, de responsabilidade parental e de obrigações de alimentos, bem como à lei aplicável em matéria de obrigações de alimentos"
+type: "Regulamento"
+number: "664/2009"
+year: 2009
+date: 2009-07-07
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2009-08-20
+consolidated_celex: "02009R0664-20090820"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02009R0664-20090820"
+eli: "http://data.europa.eu/eli/reg/2009/664/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (CE) n. o  664/2009 do Conselho, de 7 de Julho de 2009 , que estabelece um procedimento para a negociação e a celebração de acordos entre Estados-Membros e países terceiros relativamente à competência, ao reconhecimento e à execução de sentenças e decisões em matéria matrimonial, de responsabilidade parental e de obrigações de alimentos, bem como à lei aplicável em matéria de obrigações de alimentos
+
+## Artigo 1.º — Objecto e âmbito de aplicação
+
+1. O presente regulamento estabelece um procedimento destinado a autorizar um Estado-Membro a alterar um acordo existente ou a negociar e celebrar um novo acordo com um país terceiro, sujeito às condições estabelecidas no presente regulamento.
+
+Este procedimento não prejudica as competências respectivas da Comunidade e dos Estados-Membros.
+
+2. O presente regulamento aplica-se aos acordos relativos a determinadas matérias abrangidas, total ou parcialmente, pelo âmbito de aplicação do Regulamento (CE) n.º 2201/2003 do Conselho, de27 de Novembro de 2003, relativo à competência, ao reconhecimento e à execução de decisões em matéria matrimonial e em matéria de responsabilidade parental (
+
+4
+
+), e do Regulamento (CE) n.º 4/2009 do Conselho, de 18 de Dezembro de 2008, relativo à competência, à lei aplicável, ao reconhecimento e à execução das decisões e à cooperação em matéria de obrigações alimentares (
+
+5
+
+), na medida em que tais matérias sejam da competência exclusiva da Comunidade.
+
+3. O presente regulamento não é aplicável se a Comunidade já tiver celebrado um acordo sobre o mesmo objecto com o país terceiro em causa.
+
+## Artigo 2.º — Definições
+
+1. Para efeitos do presente regulamento, por «acordo» entende-se:
+
+a) Um acordo bilateral entre um Estado-Membro e um país terceiro;
+
+b) Os acordos regionais referidos na alínea a) do n.º 2 do artigo 59.º do Regulamento (CE) n.º 2201/2003, sem prejuízo da alínea c) do n.º 2 e do n.º 3 do mesmo artigo desse regulamento, e no n.º 3 do artigo 69.º do Regulamento (CE) n.º 4/2009.
+
+2. No âmbito dos acordos regionais a que se refere a alínea b) do n.º 1, as referências no presente regulamento a um Estado-Membro ou a um país terceiro devem ser entendidas como referências aos Estados-Membros ou aos países terceiros em causa, respectivamente.
+
+## Artigo 3.º — Notificação à Comissão
+
+1. Caso pretenda entrar em negociações para alterar um acordo existente ou para celebrar um novo acordo abrangido pelo âmbito de aplicação do presente regulamento, um Estado-Membro deve notificar por escrito a Comissão da sua intenção na primeira ocasião possível antes da abertura prevista de negociações formais.
+
+2. A notificação é acompanhada, conforme apropriado, de uma cópia do acordo existente, do projecto de acordo ou do projecto de proposta, bem como de qualquer outro documento relevante. O Estado-Membro descreve o objecto das negociações e precisa as questões que devem ser tratadas no acordo previsto ou as disposições do acordo existente que devem ser alteradas. O Estado-Membro pode prestar quaisquer outras informações adicionais.
+
+## Artigo 4.º — Avaliação da Comissão
+
+1. Após recepção da notificação a que se refere o artigo 3.º, a Comissão avalia se o Estado-Membro pode dar início a negociações formais.
+
+2. A Comissão, ao fazer essa avaliação, verifica, em primeiro lugar, se está especificamente previsto nos próximos vinte e quatro meses um mandato de negociação relevante com vista à celebração de um acordo comunitário com o país terceiro em causa. Se tal não for o caso, a Comissão avalia se estão reunidas todas as condições seguintes:
+
+a) O Estado-Membro em causa ter prestado informações expondo ter um interesse específico na celebração do acordo, devido à existência de laços económicos, geográficos, culturais, históricos, sociais ou políticos entre o Estado-Membro e o país terceiro em causa;
+
+b) Com base na informação prestada pelo Estado-Membro, o acordo previsto parecer não comprometer a eficácia do direito comunitário e não prejudicar o bom funcionamento do sistema instituído pelo referido direito; e
+
+c) O acordo previsto não prejudicar nem o objecto nem a finalidade da política de relações externas decidida pela Comunidade.
+
+3. Se as informações prestadas pelo Estado-Membro não forem suficientes para efectuar a avaliação, a Comissão pode solicitar informações adicionais.
+
+## Artigo 5.º — Autorização de abertura de negociações formais
+
+1. Se o acordo previsto satisfizer as condições estabelecidas no n.º 2 do artigo 4.º, a Comissão, no prazo de 90 dias a contar da data de recepção da notificação referida no artigo 3.º, toma uma decisão fundamentada sobre o pedido do Estado-Membro, autorizando-o a dar início a negociações formais sobre aquele acordo.
+
+Se necessário, a Comissão pode propor orientações de negociação e solicitar a inclusão de cláusulas específicas no acordo previsto.
+
+2. O acordo previsto deve conter uma cláusula que preveja:
+
+a) A sua denúncia total ou parcial no caso de celebração de um acordo posterior com o mesmo objecto entre a Comunidade ou a Comunidade e os seus Estados-Membros, por um lado, e o mesmo país terceiro, por outro; ou
+
+b) A substituição directa das suas disposições relevantes pelas disposições de um acordo posterior com o mesmo objecto entre a Comunidade ou a Comunidade e os seus Estados-Membros, por um lado, e o mesmo país terceiro, por outro.
+
+A cláusula referida na alínea a) do primeiro parágrafo deveria ser redigida de acordo com o modelo seguinte: «[nome(s) do Estado(s)-Membro(s)] denuncia(m) o presente acordo, total ou parcialmente, se e quando a Comunidade Europeia ou a Comunidade Europeia e os seus Estados-Membros celebrar(em) um acordo com [nome(s) do(s) país(es) terceiro(s)] sobre as mesmas matérias do domínio da justiça civil que as regidas pelo presente acordo».
+
+A cláusula referida na alínea b) do primeiro parágrafo deveria ser redigida de acordo com o modelo seguinte: «O presente acordo ou determinadas disposições do presente acordo cessa(m) de ser aplicáveis no que diz respeito às matérias regidas por um acordo entre a Comunidade Europeia ou a Comunidade Europeia e os seus Estados-Membros, por um lado, e [nome(s) do(s) país(es) terceiro(s)], por outro, na data da entrada em vigor deste último acordo».
+
+## Artigo 6.º — Recusa de autorizar a abertura de negociações formais
+
+1. Se, com base na avaliação por si efectuada nos termos do artigo 4.º, a Comissão entender não autorizar a abertura de negociações formais sobre o acordo previsto, dá um parecer ao Estado-Membro em causa no prazo de 90 dias a contar da data de recepção da notificação referida no artigo 3.º
+
+2. No prazo de 30 dias a contar da data de recepção do parecer da Comissão, o Estado-Membro em causa pode solicitar à Comissão uma troca de pontos de vista a fim de se encontrar uma solução.
+
+3. Se o Estado-Membro em causa não solicitar uma troca de pontos de vista à Comissão no prazo fixado no n.º 2, a Comissão toma uma decisão fundamentada sobre o pedido do Estado-Membro no prazo de 130 dias a contar da data de recepção da notificação referida no artigo 3.º
+
+4. No caso de se proceder à troca de pontos de vista referida no n.º 2, a Comissão toma uma decisão fundamentada sobre o pedido do Estado-Membro no prazo de 30 dias a contar da data de conclusão da troca de pontos de vista.
+
+## Artigo 7.º — Participação da Comissão nas negociações
+
+A Comissão pode participar na qualidade de observadora nas negociações entre o Estado-Membro e o país terceiro relativamente às matérias abrangidas pelo âmbito de aplicação do presente regulamento. Se a Comissão não participar na qualidade de observadora, é informada sobre a evolução e os resultados ao longo das diferentes fases das negociações.
+
+## Artigo 8.º — Autorização de celebração do acordo
+
+1. Antes de assinar um acordo negociado, o Estado-Membro em causa notifica à Comissão o resultado das negociações e transmite-lhe o texto do acordo.
+
+2. Após recepção desta notificação, a Comissão avalia se o acordo negociado:
+
+a) Satisfaz a condição estabelecida na alínea b) do n.º 2 do artigo 4.º;
+
+b) Satisfaz a condição estabelecida na alínea c) do n.º 2 do artigo 4.º, na medida em que haja circunstâncias novas e excepcionais relativamente a essa condição; e
+
+c) Preenche o requisito previsto no n.º 2 do artigo 5.º
+
+3. Se o acordo negociado satisfizer as condições e os requisitos referidos no n.º 2, a Comissão, no prazo de 90 dias a contar da data de recepção da notificação referida no n.º 1, toma uma decisão fundamentada sobre o pedido do Estado-Membro, autorizando-o a celebrar aquele acordo.
+
+## Artigo 9.º — Recusa de autorizar a celebração do acordo
+
+1. Se, com base na avaliação por si efectuada nos termos do n.º 2 do artigo 8.º, a Comissão entender não autorizar a celebração do acordo negociado, dá um parecer ao Estado-Membro em causa, bem como ao Parlamento Europeu e ao Conselho, no prazo de 90 dias a contar da data de recepção da notificação referida no n.º 1 do artigo 8.º
+
+2. No prazo de 30 dias a contar da data de recepção do parecer da Comissão, o Estado-Membro em causa pode solicitar à Comissão uma troca de pontos de vista a fim de se encontrar uma solução.
+
+3. Se o Estado-Membro em causa não solicitar uma troca de pontos de vista à Comissão no prazo fixado no n.º 2, a Comissão toma uma decisão fundamentada sobre o pedido do Estado-Membro no prazo de 130 dias a contar da data de recepção da notificação referida no n.º 1 do artigo 8.º
+
+4. No caso de se proceder à troca de pontos de vista referida no n.º 2, a Comissão toma uma decisão fundamentada sobre o pedido do Estado-Membro no prazo de 30 dias a contar da data de conclusão da troca de pontos de vista.
+
+5. A Comissão notifica a sua decisão ao Parlamento Europeu e ao Conselho no prazo de 30 dias a contar da data da decisão.
+
+## Artigo 10.º — Confidencialidade
+
+Quando prestar informações à Comissão nos termos do artigo 3.º, do n.º 3 do artigo 4.º e do artigo 8.º, o Estado-Membro pode indicar se alguma dessas informações deve ser considerada confidencial e se a informação prestada pode ser partilhada com outros Estados-Membros.
+
+## Artigo 11.º — Transmissão de informações aos Estados-Membros
+
+A Comissão envia aos Estados-Membros as notificações recebidas ao abrigo dos artigos 3.º e 8.º e, se necessário, os documentos que as acompanham, bem como as suas decisões fundamentadas tomadas ao abrigo dos artigos 5.º, 6.º, 8.º e 9.º, sem prejuízo dos requisitos de confidencialidade.
+
+## Artigo 12.º — Disposições transitórias
+
+1. Caso, no momento da entrada em vigor do presente regulamento, um Estado-Membro já tenha dado início ao processo de negociações de um acordo com um país terceiro, é aplicável o disposto nos artigos 3.º a 11.º
+
+Caso a fase das negociações o permita, a Comissão pode propor orientações de negociação ou solicitar a inclusão de cláusulas específicas, como referido no segundo parágrafo do n.º 1 e no n.º 2 do artigo 5.º, respectivamente.
+
+2. Caso, no momento da entrada em vigor do presente regulamento, um Estado-Membro já tenha terminado as negociações, sem no entanto ter celebrado o acordo, é aplicável o disposto no artigo 3.º, nos n.ºs 2 e 3 do artigo 8.ºe no artigo 9.º
+
+## Artigo 13.º — Reexame
+
+1. Após 7 de Julho de 2017, a Comissão apresenta ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social Europeu um relatório sobre a aplicação do presente regulamento.
+
+2. Aquele relatório deve:
+
+a) Confirmar que é apropriado que o presente regulamento caduque na data fixada nos termos do n.º 1 do artigo 14.º; ou
+
+b) Recomendar que o presente regulamento seja substituído nessa data por um novo regulamento.
+
+3. Se o relatório recomendar a substituição do presente regulamento nos termos da alínea b) do n.º 2, deve ser acompanhado de uma proposta legislativa adequada.
+
+## Artigo 14.º — Vigência
+
+1. O presente regulamento caduca três anos após a apresentação do relatório da Comissão referido no artigo 13.º
+
+O período de três anos referido no primeiro parágrafo começa a contar do primeiro dia do mês seguinte à apresentação do relatório, seja ao Parlamento Europeu, seja ao Conselho, consoante a que for mais tardia.
+
+2. Não obstante o facto de o presente regulamento caducar na data fixada nos termos do n.º 1, todas as negociações em curso nessa data iniciadas por um Estado-Membro ao abrigo do presente regulamento podem continuar e ser concluídas nos termos do presente regulamento.
+
+## Artigo 15.º — Entrada em vigor
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável nos Estados-Membros em conformidade com o Tratado que institui a Comunidade Europeia.
+
+(
+
+1
+
+) Parecer emitido em 7 de Maio de 2009 (ainda não publicado no Jornal Oficial).
+
+(
+
+2
+
+) JO L 12 de 16.1.2001, p. 1.
+
+(
+
+3
+
+) JO L 145 de 31.5.2001, p. 43.
+
+(
+
+4
+
+) JO L 338 de 23.12.2003, p. 1.
+
+(
+
+5
+
+) JO L 7 de 10.1.2009, p. 1.

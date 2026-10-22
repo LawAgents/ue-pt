@@ -1,0 +1,69 @@
+---
+id: "regulamento-ue-2008-1303"
+celex: "32008R1303"
+title: "Regulamento (CE) n. o  1303/2008 da Comissão, de 18 de Dezembro de 2008 , que rectifica o Regulamento (CE) n. o  983/2008 que adopta um plano de atribuição de recursos aos Estados-Membros, a imputar ao exercício de 2009, para o fornecimento de géneros alimentícios provenientes das existências de intervenção a favor das pessoas mais necessitadas na Comunidade"
+type: "Regulamento"
+number: "1303/2008"
+year: 2008
+date: 2008-12-18
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32008R1303"
+eli: "http://data.europa.eu/eli/reg/2008/1303/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (CE) n. o  1303/2008 da Comissão, de 18 de Dezembro de 2008 , que rectifica o Regulamento (CE) n. o  983/2008 que adopta um plano de atribuição de recursos aos Estados-Membros, a imputar ao exercício de 2009, para o fornecimento de géneros alimentícios provenientes das existências de intervenção a favor das pessoas mais necessitadas na Comunidade
+
+## Considerandos
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») (1), e, nomeadamente, a alínea g) do artigo 43.º, em conjugação com o artigo 4.º,
+
+Considerando o seguinte:
+
+(1) Em consequência de um lapso administrativo, os organismos autorizados a receber açúcar na Lituânia e em Portugal indicados no Anexo III, relativo às transferências intracomunitárias de açúcar, do Regulamento (CE) n.º 983/2008 da Comissão (2) não são os correctos. Para garantir a aplicação adequada do plano, há que rectificar esses erros.
+
+(2) O Regulamento (CE) n.º 983/2008 deve, por conseguinte, ser rectificado em conformidade. A rectificação é aplicável a partir da data de entrada em vigor desse regulamento.
+
+(3) A medida prevista no presente regulamento está em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+No Anexo III do Regulamento (CE) n.º 983/2008, a quarta coluna, «Destinatário», é alterada do seguinte modo:
+
+1. No ponto 2, onde está «Ministério das Finanças, Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, Direcção de Serviços de Licenciamento, Portugal», deve ler-se «IFAP, Portugal».
+
+2. No ponto 4, onde está «NMA, Lietuva», deve ler-se «Lietuvos žemės ūkio ir maisto produktų rinkos reguliavimo agentūra, Lietuva».
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor na data da sua publicação no Jornal Oficial da União Europeia.
+
+É aplicável com efeitos desde 10 de Outubro de 2008.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 18 de Dezembro de 2008.
+
+Pela Comissão
+
+Jean-Luc DEMARTY
+
+Director-Geral da Agricultura e do Desenvolvimento Rural
+
+(1)
+
+JO L 299 de 16.11.2007, p. 1.
+
+(2)
+
+JO L 268 de 9.10.2008, p. 3.

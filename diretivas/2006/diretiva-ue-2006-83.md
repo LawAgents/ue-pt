@@ -1,0 +1,114 @@
+---
+id: "diretiva-ue-2006-83"
+celex: "32006L0083"
+title: "Directiva 2006/83/CE da Comissão, de 23 de Outubro de 2006 , que adapta a Directiva 2002/4/CE relativa ao registo de estabelecimentos de criação de galinhas poedeiras abrangidos pela Directiva 1999/74/CE do Conselho, em virtude da adesão da Bulgária e da Roménia"
+type: "Diretiva"
+number: "2006/83"
+year: 2006
+date: 2006-10-23
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32006L0083"
+eli: "http://data.europa.eu/eli/dir/2006/83/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Directiva 2006/83/CE da Comissão, de 23 de Outubro de 2006 , que adapta a Directiva 2002/4/CE relativa ao registo de estabelecimentos de criação de galinhas poedeiras abrangidos pela Directiva 1999/74/CE do Conselho, em virtude da adesão da Bulgária e da Roménia
+
+## Considerandos
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado de Adesão da Bulgária e da Roménia e, nomeadamente, o n.º 3 do seu artigo 4.º,
+
+Tendo em conta o Acto de Adesão da Bulgária e da Roménia e, nomeadamente, o seu artigo 56.º,
+
+Considerando o seguinte:
+
+(1) Em conformidade com o disposto no artigo 56.º do Acto de Adesão, relativamente a determinados actos que continuam em vigor após 1 de Janeiro de 2007 e que devam ser adaptados em virtude da adesão, sem que estejam previstas no Acto de Adesão nem nos seus anexos as adaptações necessárias, a Comissão adoptará os actos necessários sempre que o acto inicial tiver sido adoptado por esta instituição.
+
+(2) A Acta Final da Conferência que elaborou o Tratado de Adesão indicou que as Altas Partes Contratantes chegaram a um acordo político no que respeita a uma série de adaptações a actos adoptados pelas instituições, necessárias em virtude da adesão, e convidou o Conselho e a Comissão a adoptar essas adaptações antes da adesão, completadas e actualizadas sempre que necessário por forma a ter em conta a evolução do direito da União.
+
+(3) Por conseguinte, a Directiva 2002/4/CE da Comissão, de 30 de Janeiro de 2002, relativa ao registo de estabelecimentos de criação de galinhas poedeiras abrangidos pela Directiva 1999/74/CE do Conselho (1), deve ser alterada em conformidade,
+
+ADOPTOU A PRESENTE DIRECTIVA:
+
+## Artigo 1.º
+
+A Directiva 2002/4/CE da Comissão é alterada em conformidade com o anexo da presente directiva.
+
+## Artigo 2.º
+
+1. Os Estados-Membros adoptarão e publicarão, o mais tardar à data de adesão da Bulgária e da Roménia à União Europeia, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros comunicarão imediatamente à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.
+
+Os Estados-Membros aplicarão tais disposições a partir da data de adesão da Bulgária e da Roménia à União Europeia.
+
+As disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas da referida referência aquando da sua publicação oficial. As modalidades daquela referência incumbem aos Estados-Membros.
+
+2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem nos domínios abrangidos pela presente directiva.
+
+## Artigo 3.º
+
+A presente directiva entra em vigor sob reserva da entrada em vigor do Tratado de Adesão da Bulgária e da Roménia e na mesma data.
+
+## Artigo 4.º
+
+Os Estados-Membros são os destinatários da presente directiva.
+
+## Assinatura
+
+Feito em Bruxelas, em 23 de Outubro de 2006.
+
+Pela Comissão
+
+Olli REHN
+
+Membro da Comissão
+
+(1)
+
+JO L 30 de 31.1.2002, p. 44.
+
+## Anexo
+
+**AGRICULTURA**
+
+**LEGISLAÇÃO VETERINÁRIA E FITOSSANITÁRIA**
+
+**LEGISLAÇÃO VETERINÁRIA**
+
+32002 L 0004: Directiva 2002/4/CE da Comissão, de 30 de Janeiro de 2002, relativa ao registo de estabelecimentos de criação de galinhas poedeiras abrangidos pela Directiva 1999/74/CE do Conselho (JO L 30 de 31.1.2002, p. 44), alterada por:
+
+— 12003 T: Acto relativo às condições de adesão e às adaptações dos Tratados — Adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca (JO L 236 de 23.9.2003, p. 33),
+
+A lista constante do Parte 2.2 do Anexo é substituída pela seguinte:
+
+| «AT | Áustria |
+|---|---|
+| BE | Bélgica |
+| BG | Bulgária |
+| CY | Chipre |
+| CZ | República Checa |
+| DE | Alemanha |
+| DK | Dinamarca |
+| EE | Estónia |
+| EL | Grécia |
+| ES | Espanha |
+| FI | Finlândia |
+| FR | França |
+| HU | Hungria |
+| IE | Irlanda |
+| IT | Itália |
+| LT | Lituânia |
+| LU | Luxemburgo |
+| LV | Letónia |
+| MT | Malta |
+| NL | Países Baixos |
+| PL | Polónia |
+| PT | Portugal |
+| RO | Roménia |
+| SE | Suécia |
+| SI | Eslovénia |
+| SK | Eslováquia |
+| UK | Reino Unido.» |

@@ -1,0 +1,34 @@
+regulamento-ue-2016-679 | Regulamento Geral sobre a Proteção de Dados | RGPD, GDPR
+regulamento-ue-2024-1689 | Regulamento da Inteligência Artificial | AI Act, RIA
+regulamento-ue-2022-2065 | Regulamento dos Serviços Digitais | DSA
+regulamento-ue-2022-1925 | Regulamento dos Mercados Digitais | DMA
+regulamento-ue-2023-2854 | Regulamento dos Dados | Data Act
+regulamento-ue-2022-2554 | Regulamento sobre a Resiliência Operacional Digital | DORA
+diretiva-ue-2022-2555 | Diretiva SRI 2 (segurança das redes e da informação) | NIS2
+diretiva-ue-2002-58 | Diretiva Privacidade e Comunicações Eletrónicas | ePrivacy
+diretiva-ue-2011-83 | Diretiva dos Direitos dos Consumidores | DDC
+diretiva-ue-2019-790 | Diretiva dos Direitos de Autor no Mercado Único Digital | DSM
+diretiva-ue-2000-31 | Diretiva do Comércio Eletrónico | ECD
+regulamento-ue-2014-910 | Regulamento eIDAS (identificação eletrónica) | eIDAS
+regulamento-ue-2019-1020 | Regulamento de Fiscalização do Mercado e Conformidade dos Produtos | RFM
+regulamento-ue-2012-1215 | Regulamento Bruxelas I bis (competência judiciária) | Bruxelas I
+regulamento-ue-2008-593 | Regulamento Roma I (lei aplicável às obrigações contratuais) | Roma I
+regulamento-ue-2007-864 | Regulamento Roma II (lei aplicável às obrigações extracontratuais) | Roma II
+regulamento-ue-2013-575 | Regulamento Requisitos de Fundos Próprios | CRR
+regulamento-ue-2014-596 | Regulamento Abuso de Mercado | MAR
+diretiva-ue-2014-65 | Diretiva Mercados de Instrumentos Financeiros | MiFID II
+diretiva-ue-2019-771 | Diretiva da Compra e Venda de Bens | CVB
+diretiva-ue-2019-770 | Diretiva dos Conteúdos e Serviços Digitais | CSD
+diretiva-ue-2005-29 | Diretiva das Práticas Comerciais Desleais | PCD
+diretiva-ue-2013-11 | Diretiva da Resolução Alternativa de Litígios de Consumo | RAL
+diretiva-ue-2016-680 | Diretiva da Proteção de Dados na Aplicação da Lei Penal | LED
+diretiva-ue-2016-681 | Diretiva dos Dados dos Registos de Identificação de Passageiros | PNR
+regulamento-ue-2018-1725 | Regulamento de Proteção de Dados das Instituições da UE | RPDUE
+regulamento-ue-2020-852 | Regulamento da Taxonomia da UE | Taxonomia
+regulamento-ue-2022-1031 | Regulamento dos Contratos Públicos Internacionais | IPI
+diretiva-ue-2009-138 | Diretiva Solvência II | Solvência II
+diretiva-ue-2001-83 | Diretiva dos Medicamentos para Uso Humano | Código dos Medicamentos
+diretiva-ue-2010-13 | Diretiva dos Serviços de Comunicação Social Audiovisual | SCSA
+diretiva-ue-2004-38 | Diretiva da Livre Circulação de Cidadãos da União | Livre circulação
+diretiva-ue-2014-24 | Diretiva dos Contratos Públicos | DCP
+regulamento-ue-2011-492 | Regulamento da Livre Circulação dos Trabalhadores | Livre circulação trabalhadores

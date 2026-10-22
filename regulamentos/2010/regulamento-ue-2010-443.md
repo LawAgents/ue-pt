@@ -1,0 +1,71 @@
+---
+id: "regulamento-ue-2010-443"
+celex: "32010R0443"
+title: "Regulamento (UE) n. ° 443/2010 da Comissão, de 21 de Maio de 2010 , relativo à inscrição de uma denominação no registo das denominações de origem protegidas e das indicações geográficas protegidas [Piave (DOP)]"
+type: "Regulamento"
+number: "443/2010"
+year: 2010
+date: 2010-05-21
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32010R0443"
+eli: "http://data.europa.eu/eli/reg/2010/443/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (UE) n. ° 443/2010 da Comissão, de 21 de Maio de 2010 , relativo à inscrição de uma denominação no registo das denominações de origem protegidas e das indicações geográficas protegidas [Piave (DOP)]
+
+## Considerandos
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 510/2006 do Conselho, de 20 de Março de 2006, relativo à protecção das indicações geográficas e denominações de origem dos produtos agrícolas e dos géneros alimentícios (1), nomeadamente o artigo 7.º, n.º 4, primeiro parágrafo,
+
+Considerando o seguinte:
+
+(1) Em conformidade com o artigo 6.º, n.º 2, primeiro parágrafo, do Regulamento (CE) n.º 510/2006 e em aplicação do artigo 17.º, n.º 2, do mesmo regulamento, o pedido de registo da denominação «Piave», apresentado pela Itália, foi publicado no Jornal Oficial da União Europeia (2).
+
+(2) Não tendo sido apresentada à Comissão nenhuma declaração de oposição, em conformidade com o artigo 7.º do Regulamento (CE) n.º 510/2006, a denominação deve ser registada,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+É registada a denominação constante do anexo do presente regulamento.
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 21 de Maio de 2010.
+
+Pela Comissão
+
+O Presidente
+
+José Manuel BARROSO
+
+(1)
+
+JO L 93 de 31.3.2006, p. 12.
+
+(2)
+
+JO C 234 de 29.9.2009, p. 18.
+
+## Anexo
+
+Produtos agrícolas destinados à alimentação humana que constam do anexo I do Tratado:
+
+**Classe 1.3. Queijos**
+
+**ITÁLIA**
+
+Piave (DOP)

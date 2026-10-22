@@ -1,0 +1,59 @@
+---
+id: "regulamento-ue-2022-943"
+celex: "32022R0943"
+title: "Regulamento (UE) 2022/943 da Comissão de 17 de junho de 2022 que retifica determinadas versões linguísticas do anexo I do Regulamento (CE) n.o 2195/2002 do Parlamento Europeu e do Conselho relativo ao Vocabulário Comum para os Contratos Públicos (CPV) (Texto relevante para efeitos do EEE)"
+type: "Regulamento"
+number: "2022/943"
+year: 2022
+date: 2022-06-17
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32022R0943"
+eli: "http://data.europa.eu/eli/reg/2022/943/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (UE) 2022/943 da Comissão de 17 de junho de 2022 que retifica determinadas versões linguísticas do anexo I do Regulamento (CE) n.o 2195/2002 do Parlamento Europeu e do Conselho relativo ao Vocabulário Comum para os Contratos Públicos (CPV) (Texto relevante para efeitos do EEE)
+
+## Considerandos
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 2195/2002 do Parlamento Europeu e do Conselho, de 5 de novembro de 2002, relativo ao Vocabulário Comum para os Contratos Públicos (CPV) (1), e, nomeadamente, o seu artigo 2.º,
+
+Considerando o seguinte:
+
+(1) As versões em língua croata e estónia do Regulamento (CE) n.º 2195/2002 contêm um erro no anexo I, quadro «Vocabulário Principal», segunda coluna, no que diz respeito ao código 79530000-8 do Vocabulário Comum para os Contratos Públicos (CPV).
+
+(2) Consequentemente, as versões em língua croata e estónia do anexo I do Regulamento (CE) n.º 2195/2002 devem ser retificadas em conformidade. As restantes versões linguísticas não são afetadas.
+
+(3) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Consultivo para os Contratos Públicos,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+(Não diz respeito à versão portuguesa.)
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 17 de junho de 2022.
+
+Pela Comissão
+
+A Presidente
+
+Ursula VON DER LEYEN
+
+(1)
+
+JO L 340 de 16.12.2002, p. 1.

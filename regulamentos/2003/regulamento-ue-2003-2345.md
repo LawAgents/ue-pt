@@ -1,0 +1,45 @@
+---
+id: "regulamento-ue-2003-2345"
+celex: "32003R2345"
+title: "Regulamento (CE) n.° 2345/2003 da Comissão, de 23 de Dezembro de 2003, relativo à classificação de certas mercadorias na Nomenclatura Combinada"
+type: "Regulamento"
+number: "2345/2003"
+year: 2003
+date: 2003-12-23
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2013-06-04
+consolidated_celex: "02003R2345-20130604"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02003R2345-20130604"
+eli: "http://data.europa.eu/eli/reg/2003/2345/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (CE) n.° 2345/2003 da Comissão, de 23 de Dezembro de 2003, relativo à classificação de certas mercadorias na Nomenclatura Combinada
+
+## Artigo 1.º
+
+As mercadorias descritas na coluna 1 do quadro que constitui o anexo deve ser classificada na Nomenclatura Combinada no código NC correspondente indicado na coluna 2 do referido quadro.
+
+## Artigo 2.º
+
+Sob reserva das medidas em vigor na Comunidade relativas ao sistema de duplo controlo e vigilância comunitária prévia e a posteriori dos produtos têxteis em importação na Comunidade, as informaçoes pautais vinculativas emitidas pelas autoridades aduaneiras dos Estados-Membros que não estão em conformidade com o direito estabelecido pelo presente regulamento podem continuar a ser invocadas, de acordo com o disposto no N.º 6 do artigo 12.º do Regulamento (CEE) N.º 2913/92, durante um período de 60 dias.
+
+## Artigo 3.º
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+## Anexo
+
+| Designação da mercadoria | Classificação Código NC | Código NC |
+|---|---|---|
+| (1) | (2) | (3) |
+| Peça de vestuário ajustada, não forrada, destinada a cobrir a totalidade do corpo, desde os ombros até aos tornozelos, revestindo cada perna separadamente, com mangas compridas. As extremidades das mangas e das pernas têm bainha. Possui uma abertura parcial nas costas até à cintura com fecho de correr. Apresenta tira de decote rente ao pescoço, que se aperta, junto à nuca, mediante fita aderente, tipo velcro <br> A peça de vestuário é constituída por vários painéis, cosidos uns aos outros <br> Esta peça de vestuário é predominantemente formada por painéis de borracha alveolar, recobertos de ambos os lados por um tecido de malha de uma só cor (fibras sintéticas). Apenas um pequeno painel ao nível do peito, dois dos quatro painéis das costas e os painéis da parte inferior das mangas são de borracha alveolar trabalhada em relevo e são recobertos apenas num dos lados (no interior da peça de vestuário) de um tecido de malha de uma só cor <br> (fato para desportos náuticos) <br> (ver fotografias nos. 631A e 631B) (*1) | 6113 00 10 | A classificação é determinada pelas disposiçoes das regras gerais 1, 3 b) e 6 para interpretação da Nomenclatura Combinada, pela alínea <br> nota 7- f) da secção XI, pela alínea a) da nota 2 do capítulo 40, pela nota 4 do capítulo 59, pela nota 1 do capítulo 61, e pela alínea e) da nota 1 do capítulo 95, assim como pelos descritivos dos códigos NC 6113 e 6113 00 10 <br> O artigo em questão, confeccionado na acepção da nota da alínea <br> nota 7- f) da secção XI, é principalmente constituído por painéis de borracha alveolar recobertos de ambos os lados por um tecido de malha. Estes painéis de matéria combinada conferem ao artigo o seu carácter essencial [regra geral 3 b) para interpretação da Nomenclatura Combinada] <br> Uma vez que a borracha alveolar está recoberta de ambos os lados com matéria têxtil, considerase que esta última desempenha uma função que não se limita à de simples reforço da peça de vestuário, mas conferindo à matéria em questão o carácter essencial de têxtil. Por conseguinte, uma vez que a presença de matéria têxtil não se justifica unicamente pela função de reforço na acepção do último parágrafo da nota 4 do capítulo 59, considerase que essa matéria têxtil é a matéria constitutiva do artigo [ver também as notas explicativas do SH relativas à posição 4008 , terceiro parágrafo e alínea A) do quarto parágrafo] <br> Por conseguinte, trata-se de uma peça de vestuário constituída por um tecido de malha da posição 5906 , que, em conformidade com a nota 1 do capítulo 61, é classificada na subposição 6113 00 10 <br> A classificação na posição 4015 por aplicação da regra aplicação da regra geral 3 b) para interpretação da Nomenclatura Combinada está excluída, pelo facto de apenas uma pequena parte da peça de vestuário ser formada por folhas de borracha vulcanizada recobertas de matéria têxtil num só dos lados limitando-se a um simples reforço (posição 4008 ) |
+| (*1) As fotografias são fornecidas a título meramente informativo. |  |  |
+
+image
+
+image

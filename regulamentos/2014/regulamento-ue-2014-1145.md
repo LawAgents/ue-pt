@@ -1,0 +1,63 @@
+---
+id: "regulamento-ue-2014-1145"
+celex: "32014R1145"
+title: "Regulamento (UE) n. ° 1145/2014 do Conselho, de 28 de outubro de 2014 , que revoga o Regulamento (CE) n. ° 2488/2000 relativo à manutenção do congelamento de fundos em relação a Slobodan Milosevic e às pessoas que lhe estão associadas"
+type: "Regulamento"
+number: "1145/2014"
+year: 2014
+date: 2014-10-28
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32014R1145"
+eli: "http://data.europa.eu/eli/reg/2014/1145/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (UE) n. ° 1145/2014 do Conselho, de 28 de outubro de 2014 , que revoga o Regulamento (CE) n. ° 2488/2000 relativo à manutenção do congelamento de fundos em relação a Slobodan Milosevic e às pessoas que lhe estão associadas
+
+## Considerandos
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 215.º,
+
+Tendo em conta a Decisão 2014/742/PESC do Conselho, de 28 de outubro de 2014, que revoga a Posição Comum 2000/696/PESC relativa à manutenção de medidas restritivas específicas contra Slobodan Milosevic e as pessoas que lhe estão associadas (1),
+
+Tendo em conta a proposta conjunta da Alta Representante da União Europeia para os Negócios Estrangeiros e a Política de Segurança e da Comissão Europeia,
+
+Considerando o seguinte:
+
+(1) Em conformidade com o Regulamento (CE) n.º 2488/2000 do Conselho (2), todos os fundos e outros recursos financeiros detidos fora do território da República Federativa da Jugoslávia pertencentes a Slobodan Milosevic e a pessoas singulares que lhe estão associadas, cuja lista consta do anexo I do regulamento, são congelados, não podendo essas pessoas a eles ter acesso nem deles beneficiar.
+
+(2) Através da sua Decisão2014/742/PESC, o Conselho revogou a Posição Comum 2000/696/PESC (3). O Conselho decidiu que não se justificava continuar a aplicar estas medidas restritivas uma vez que as pessoas constantes da lista do anexo da referida Posição Comum deixaram de representar uma ameaça para a consolidação da democracia.
+
+(3) É, por conseguinte, conveniente revogar o Regulamento (CE) n.º 2488/2000 com efeitos imediatos,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+O Regulamento (CE) n.º 2488/2000 é revogado.
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor na data da sua publicação no Jornal Oficial da União Europeia.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito no Luxemburgo, em 28 de outubro de 2014.
+
+Pelo Conselho
+
+O Presidente
+
+G. L. GALLETTI
+
+(1) Ver página 99 do presente Jornal Oficial.
+
+(2) Regulamento (CE) n.º 2488/2000 do Conselho, de 10 de novembro de 2000, relativo à manutenção do congelamento de fundos em relação a Slobodan Milosevic e às pessoas que lhe estão associadas e que revoga os Regulamentos (CE) n.º 1294/1999 e 607/2000, bem como o artigo 2.º do Regulamento (CE) n.º 926/98 (JO L 287 de 14.11.2000, p. 19).
+
+(3) Posição Comum 2000/696/PESC do Conselho, de 10 de novembro de 2000, relativa à manutenção de medidas restritivas específicas contra Slobodan Milosevic e as pessoas que lhe estão associadas (JO L 287 de 14.11.2000, p. 1).

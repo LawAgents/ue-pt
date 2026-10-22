@@ -1,0 +1,76 @@
+---
+id: "regulamento-ue-2006-471"
+celex: "32006R0471"
+title: "Regulamento (CE) n. o  471/2006 da Comissão, de  22 de Março de 2006 , que derroga, para 2006, ao Regulamento (CE) n. o  1445/95 no respeitante às datas de emissão dos certificados de exportação no sector da carne de bovino"
+type: "Regulamento"
+number: "471/2006"
+year: 2006
+date: 2006-03-22
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32006R0471"
+eli: "http://data.europa.eu/eli/reg/2006/471/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (CE) n. o  471/2006 da Comissão, de  22 de Março de 2006 , que derroga, para 2006, ao Regulamento (CE) n. o  1445/95 no respeitante às datas de emissão dos certificados de exportação no sector da carne de bovino
+
+## Considerandos
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 1254/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado no sector da carne de bovino (1), nomeadamente o n.º 2 do artigo 29.º,
+
+Considerando o seguinte:
+
+(1) O n.º 1 do artigo 10.º do Regulamento (CE) n.º 1445/95 da Comissão, de 26 de Junho de 1995, que estabelece as normas de execução do regime dos certificados de importação e de exportação no sector da carne de bovino e que revoga o Regulamento (CEE) n.º 2377/80 (2), prevê que os certificados de exportação sejam emitidos no quinto dia útil após o dia da apresentação do pedido, desde que, entretanto, não tenha sido tomada pela Comissão nenhuma medida especial.
+
+(2) Atendendo aos dias feriados em 2006 e ao facto de a publicação do Jornal Oficial da União Europeia ser irregular nesses dias, o prazo de cinco dias úteis supramencionado é demasiado curto para assegurar uma boa gestão do mercado, devendo, por conseguinte, ser prorrogado.
+
+(3) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão da Carne de Bovino,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+Em 2006, e em derrogação do n.º 1 do artigo 10.º do Regulamento (CE) n.º 1445/95, os certificados relativamente aos quais sejam apresentados pedidos nos períodos fixados no anexo do presente regulamento serão emitidos nas datas correspondentes indicadas no mesmo anexo.
+
+A derrogação é aplicável sob reserva de não ter sido tomada nenhuma das medidas especiais referidas no n.º 2 do artigo 10.º do Regulamento (CE) n.º 1445/95 antes dessas datas de emissão.
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 22 de Março de 2006.
+
+Pela Comissão
+
+Mariann FISCHER BOEL
+
+Membro da Comissão
+
+(1)
+
+JO L 160 de 26.6.1999, p. 21. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1913/2005 (JO L 307 de 25.11.2005, p. 2).
+
+(2)
+
+JO L 143 de 27.6.1995, p. 35. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1118/2004 (JO L 217 de 17.6.2004, p. 10).
+
+## Anexo
+
+| Períodos de apresentação dos pedidos de certificados | Datas de emissão |
+|---|---|
+| De 10 a 13 de Abril de 2006 | 21 de Abril de 2006 |
+| De 22 a 24 de Maio de 2006 | 1 de Junho de 2006 |
+| De 17 a 18 de Julho de 2006 | 26 de Julho de 2006 |
+| De 30 a 31 de Outubro de 2006 | 8 de Novembro de 2006 |
+| 21 de Dezembro de 2006 | 29 de Dezembro de 2006 |
+| De 28 a 29 de Dezembro de 2006 | 8 de Janeiro de 2007 |

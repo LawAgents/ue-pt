@@ -1,0 +1,329 @@
+---
+id: "regulamento-ue-2007-1404"
+celex: "32007R1404"
+title: "Regulamento (CE) n.°  1404/2007 do Conselho, de 26 de Novembro de 2007 , que fixa, para 2008, em relação a determinadas unidades populacionais de peixes e grupos de unidades populacionais de peixes, as possibilidades de pesca e as condições associadas aplicáveis no mar Báltico"
+type: "Regulamento"
+number: "1404/2007"
+year: 2007
+date: 2007-11-26
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2008-06-24
+consolidated_celex: "02007R1404-20080624"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02007R1404-20080624"
+eli: "http://data.europa.eu/eli/reg/2007/1404/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (CE) n.°  1404/2007 do Conselho, de 26 de Novembro de 2007 , que fixa, para 2008, em relação a determinadas unidades populacionais de peixes e grupos de unidades populacionais de peixes, as possibilidades de pesca e as condições associadas aplicáveis no mar Báltico
+
+## Capítulo I — ÂMBITO E DEFINIÇÕES
+
+### Artigo 1.º — Objecto
+
+O presente regulamento fixa, para 2008, em relação a determinadas unidades populacionais de peixes e grupos de unidades populacionais de peixes, as possibilidades de pesca e as condições associadas aplicáveis no mar Báltico.
+
+### Artigo 2.º — Âmbito
+
+1. O presente regulamento é aplicável aos navios de pesca comunitários (a seguir denominados «navios comunitários»), bem como aos navios de pesca que arvoram pavilhão de um país terceiro e estão registados num país terceiro, que pescam no mar Báltico.
+
+2. Em derrogação do n.º 1, o presente regulamento não é aplicável às operações de pesca realizadas exclusivamente para efeitos de investigação científica com a autorização e sob a autoridade do Estado-Membro em causa, após informação prévia da Comissão e do Estado-Membro em cujas águas se realizem as investigações.
+
+### Artigo 3.º — Definições
+
+Para efeitos do presente regulamento, são aplicáveis, para além das definições constantes do artigo 3.º do Regulamento(CE) n.º 2371/2002, as seguintes definições:
+
+a) As zonas do Conselho Internacional de Exploração do Mar (CIEM) são as definidas no Regulamento(CEE) n.º 3880/91;
+
+b) Por «mar Báltico» entende-se as divisões CIEM IIIb, IIIc e IIId;
+
+c) Por «total admissível de capturas (TAC)» entende-se as quantidades de cada unidade populacional que podem ser capturadas em cada ano;
+
+d) Por «quota» entende-se a parte do TAC atribuída à Comunidade, a um Estado-Membro ou a um país terceiro;
+
+e) Por «dia de ausência do porto» entende-se qualquer período contínuo de 24 horas ou qualquer parte desse período, durante o qual um navio está ausente do porto.
+
+## Capítulo II — POSSIBILIDADES DE PESCA E CONDIÇÕES ASSOCIADAS
+
+### Artigo 4.º — Limitações das capturas e sua repartição
+
+As limitações das capturas, a sua repartição pelos Estados-Membros e as condições suplementares estabelecidas em conformidade com o artigo 2.º do Regulamento (CE) n.º 847/96 constam do anexo I do presente regulamento.
+
+### Artigo 5.º — Disposições especiais em matéria de repartição das possibilidades de pesca
+
+1. A repartição das limitações das capturas pelos Estados-Membros estabelecida no anexo I é feita sem prejuízo:
+
+a) Das trocas efectuadas nos termos do n.º 5 do artigo 20.º do Regulamento (CE) n.º 2371/2002;
+
+b) Das reatribuições efectuadas nos termos do n.º 4 do artigo 21.º, do n.º 1 do artigo 23.º e do n.º 2 de artigo 32.º do Regulamento (CEE) n.º 2847/93;
+
+c) Dos desembarques adicionais autorizados ao abrigo do artigo 3.º do Regulamento (CE) n.º 847/96;
+
+d) Das quantidades retiradas em conformidade com o artigo 4.º do Regulamento (CE) n.º 847/96;
+
+e) Das deduções efectuadas nos termos do artigo 5.º do Regulamento (CE) n.º 847/96.
+
+2. Para efeitos da retirada de quotas a transferir para 2009, o n.º 2 do artigo 4.º do Regulamento (CE) n.º 847/96 pode ser aplicável, em derrogação desse regulamento, a todas as unidades populacionais sujeitas a TAC analíticos.
+
+### Artigo 6.º — Condições aplicáveis às capturas e capturas incidentais
+
+1. Os peixes das unidades populacionais para as quais são fixadas limitações das capturas só serão mantidos a bordo ou desembarcados se:
+
+a) As capturas tiverem sido efectuadas por navios de um Estado-Membro que disponha de uma quota ainda não esgotada; ou se
+
+b) As espécies diferentes do arenque e da espadilha estiverem misturadas com outras espécies e as capturas tiverem sido efectuadas com redes de arrasto, redes de cerco dinamarquesas ou artes similares de malhagem inferior a 32 mm e não forem separadas a bordo ou aquando do desembarque.
+
+2. Todas as quantidades desembarcadas serão imputadas à quota, ou à parte comunitária, excepto no caso das capturas efectuadas nos termos da alínea b) do n.º 1.
+
+3. Sempre que seja esgotada a quota de arenque atribuída a um Estado-Membro, os navios que arvoram pavilhão desse Estado-Membro, estão registados na Comunidade e operam nas pescarias a que é aplicável a quota em causa não efectuarão qualquer desembarque de capturas não separadas que contenham arenque.
+
+4. Sempre que seja esgotada a quota de espadilha atribuída a um Estado-Membro, os navios que arvoram pavilhão desse Estado-Membro, estão registados na Comunidade e operam nas pescarias a que é aplicável a quota em causa não efectuarão qualquer desembarque de capturas não separadas que contenham espadilha.
+
+### Artigo 7.º — Limites do esforço de pesca
+
+Os limites do esforço de pesca são fixados no anexo II.
+
+### Artigo 8.º — Medidas técnicas transitórias
+
+As medidas técnicas transitórias são fixadas no anexo III.
+
+## Capítulo III — DISPOSIÇÕES FINAIS
+
+### Artigo 9.º — Transmissão de dados
+
+Sempre que os Estados-Membros enviem dados à Comissão relativos aos desembarques de quantidades de unidades populacionais capturadas em conformidade com o n.º 1 do artigo 15.º do Regulamento (CEE) n.º 2847/93, utilizarão os códigos das unidades populacionais constantes do anexo I do presente regulamento.
+
+### Artigo 10.º — Entrada em vigor
+
+O presente regulamento entra em vigor na data da sua publicação no Jornal Oficial da União Europeia.
+
+É aplicável a partir de 1 de Janeiro de 2008.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+## Anexo I
+
+**Limitações dos desembarques e condições associadas para fins de gestão anual das limitações das capturas aplicáveis aos navios comunitários nas zonas em que existem limitações das capturas, por espécie e por zona**
+
+Os quadros que se seguem estabelecem os TAC e quotas por unidade populacional (em toneladas de peso vivo, excepto disposição contrária), a sua repartição pelos Estados-Membros e as condições associadas aplicáveis à gestão anual das quotas.
+
+Em cada zona, as unidades populacionais de peixes são indicadas por ordem alfabética dos nomes latinos das espécies. Para efeitos dos presentes quadros, os códigos utilizados para as diferentes espécies são os seguintes:
+
+| Denominação científica | Código de 3 letras | Denominação comum |
+|---|---|---|
+| Clupea harengus | HER | Arenque |
+| Gadus morhua | COD | Bacalhau |
+| Platichthys flesus | FLE | Solha-das-pedras |
+| Pleuronectes platessa | PLE | Solha-legítima |
+| Psetta maxima | TUR | Pregado |
+| Salmo salar | SAL | Salmão-do-atlântico |
+| Sprattus sprattus | SPR | Espadilha |
+
+| Espécie: Arenque <br> Clupea harengus |  | Zona: Subdivisões 22-24 <br> HER/3B23.; HER/3C22.; HER/3D24. |
+|---|---|---|
+| Dinamarca | 7 141 |  |
+| Alemanha | 27 254 |  |
+| Finlândia | 3 |  |
+| Polónia | 6 441 |  |
+| Suécia | 8 807 |  |
+| CE | 49 646 |  |
+| TAC | 49 646 | TAC analítico. <br> É aplicável o artigo 3.º do Regulamento (CE) n.º 847/96. <br> É aplicável o artigo 4.º do Regulamento (CE) n.º 847/96. <br> É aplicável o n.º 2 do artigo 5.º do Regulamento (CE) n.º 847/96. |
+
+| Espécie: Arenque <br> Clupea harengus |  | Zona: Subdivisões 30-31 <br> HER/3D30.; HER/3D31. |
+|---|---|---|
+| Finlândia | 79 625 |  |
+| Suécia | 17 326 |  |
+| CE | 96 951 |  |
+| TAC | 96 951 | TAC analítico. <br> É aplicável o artigo 3.º do Regulamento (CE) n.º 847/96. <br> É aplicável o artigo 4.º do Regulamento (CE) n.º 847/96. <br> É aplicável o n.º 2 do artigo 5.º do Regulamento (CE) n.º 847/96. |
+
+| Espécie: Arenque <br> Clupea harengus |  | Zona: Subdivisões 25-27, 28.2, 29 e 32 <br> HER/3D25.; HER/3D26.; HER/3D27.; HER/3D28.; HER/3D29.; HER/3D32. |
+|---|---|---|
+| Dinamarca | 3 358 |  |
+| Alemanha | 890 |  |
+| Estónia | 17 148 |  |
+| Finlândia | 33 472 |  |
+| Letónia | 4 232 |  |
+| Lituânia | 4 456 |  |
+| Polónia | 38 027 |  |
+| Suécia | 51 047 |  |
+| CE | 152 630 |  |
+| TAC | Não pertinente | TAC analítico. <br> Não é aplicável o artigo 3.º do Regulamento (CE) n.º 847/96. <br> Não é aplicável o artigo 4.º do Regulamento (CE) n.º 847/96. <br> É aplicável o n.º 2 do artigo 5.º do Regulamento (CE) n.º 847/96. |
+
+| Espécie: Arenque <br> Clupea harengus |  | Zona: Subdivisão 28.1 <br> HER/03D.RG |
+|---|---|---|
+| Estónia | 18 584 |  |
+| Letónia | 19 426 |  |
+| CE | 38 010 |  |
+| TAC | 38 010 | TAC analítico <br> É aplicável o artigo 3.º do Regulamento (CE) n.º 847/96. <br> É aplicável o artigo 4.º do Regulamento (CE) n.º 847/96. <br> É aplicável o n.º 2 do artigo 5.º do Regulamento (CE) n.º 847/96. |
+
+| Espécie: Bacalhau <br> Gadus morhua |  | Zona: Subdivisões 25-32 (águas da CE) <br> COD/3D25.; COD/3D26.; COD/3D27.; COD/3D28.; COD/3D29.; COD/3D30.; COD/3D31.; COD/3D32. |
+|---|---|---|
+| Dinamarca | 8 905 |  |
+| Alemanha | 3 542 |  |
+| Estónia | 868 |  |
+| Finlândia | 681 |  |
+| Letónia | 3 311 |  |
+| Lituânia | 2 181 |  |
+| Polónia | 10 255 |  |
+| Suécia | 9 022 |  |
+| CE | 38 765 |  |
+| TAC | Não pertinente | TAC analítico. <br> Não é aplicável o artigo 3.º do Regulamento (CE) n.º 847/96. <br> Não é aplicável o artigo 4.º do Regulamento (CE) n.º 847/96. <br> É aplicável o n.º 2 do artigo 5.º do Regulamento (CE) n.º 847/96. |
+
+| Espécie: Bacalhau <br> Gadus morhua |  | Zona: Subdivisões 22-24 (águas da CE) <br> COD/3B23.; COD/3C22.; COD/3D24. |
+|---|---|---|
+| Dinamarca | 9 761 |  |
+| Alemanha | 4 816 |  |
+| Estónia | 203 |  |
+| Finlândia | 165 |  |
+| Letónia | 694 |  |
+| Lituânia | 450 |  |
+| Polónia | 2 171 |  |
+| Suécia | 3 349 |  |
+| CE | 21 609 |  |
+| TAC | 21 609 | TAC analítico. <br> É aplicável o artigo 3.º do Regulamento (CE) n.º 847/96. <br> É aplicável o artigo 4.º do Regulamento (CE) n.º 847/96. <br> É aplicável o n.º 2 do artigo 5.º do Regulamento (CE) n.º 847/96. |
+
+| Espécie: Solha-legítima <br> Pleuronectes platessa |  | Zona: Zona IIIbcd (águas da CE) <br> PLE/3B23.; PLE/3C22.; PLE/3D24.; PLE/3D25.; PLE/3D26.; PLE/3D27.; PLE/3D28.; PLE/3D29.; PLE/3D30.; PLE/3D31.; PLE/3D32. |
+|---|---|---|
+| Dinamarca | 2 590 |  |
+| Alemanha | 288 |  |
+| Polónia | 480 |  |
+| Suécia | 192 |  |
+| CE | 3 550 |  |
+| TAC | 3 550 | TAC de precaução. <br> É aplicável o artigo 3.º do Regulamento (CE) n.º 847/96. <br> É aplicável o artigo 4.º do Regulamento (CE) n.º 847/96. <br> É aplicável o n.º 2 do artigo 5.º do Regulamento (CE) n.º 847/96. |
+
+| Espécie: Salmão-do-Atlântico <br> Salmo salar |  | Zona: Zona IIIbcd (águas da CE), excluindo a subdivisão 32 <br> SAL/3B23.; SAL/3C22.; SAL/3D24.; SAL/3D25.; SAL/3D26.; SAL/3D27.; SAL/3D28.; SAL/3D29.; SAL/3D30.; SAL/3D31. |
+|---|---|---|
+| Dinamarca | 75 511 (1) |  |
+| Alemanha | 8 401 (1) |  |
+| Estónia | 7 674 (1) |  |
+| Finlândia | 94 157 (1) |  |
+| Letónia | 48 028 (1) |  |
+| Lituânia | 5 646 (1) |  |
+| Polónia | 22 907 (1) |  |
+| Suécia | 102 068 (1) |  |
+| CE | 364 392 (1) |  |
+| TAC | Não pertinente | TAC analítico. <br> Não é aplicável o artigo 3.º do Regulamento (CE) n.º 847/96. <br> Não é aplicável o artigo 4.º do Regulamento (CE) n.º 847/96. <br> É aplicável o n.º 2 do artigo 5.º do Regulamento (CE) n.º 847/96. |
+| (1) Número de peixes. |  |  |
+
+| Espécie: Salmão-do-atlântico <br> Salmo salar |  | Zona: Subdivisão 32 <br> SAL/3D32. |
+|---|---|---|
+| Estónia | 1 581 (1) |  |
+| Finlândia | 13 838 (1) |  |
+| CE | 15 419 (1) |  |
+| TAC | Não pertinente | TAC analítico. <br> Não é aplicável o artigo 3.º do Regulamento (CE) n.º 847/96. <br> Não é aplicável o artigo 4.º do Regulamento (CE) n.º 847/96. <br> É aplicável o n.º 2 do artigo 5.º do Regulamento (CE) n.º 847/96. |
+| (1) Número de peixes. |  |  |
+
+| Espécie: Espadilha <br> Sprattus sprattus |  | Zona: Zona IIIbcd (águas da CE) <br> SPR/3B23.; SPR/3C22.; SPR/3D24.; SPR/3D25.; SPR/3D26.; SPR/3D27.; SPR/3D28.; SPR/3D29.; SPR/3D30.; SPR/3D31.; SPR/3D32. |
+|---|---|---|
+| Dinamarca | 49 212 |  |
+| Alemanha | 31 563 |  |
+| Estónia | 52 060 |  |
+| Finlândia | 23 469 |  |
+| Letónia | 62 877 |  |
+| Lituânia | 24 948 |  |
+| Polónia | 145 549 |  |
+| Suécia | 95 368 |  |
+| CE | 485 046 |  |
+| TAC | Não pertinente | TAC analítico. <br> Não é aplicável o artigo 3.º do Regulamento (CE) n.º 847/96. <br> É aplicável o artigo 4.º do Regulamento (CE) n.º 847/96. <br> É aplicável o n.º 2 do artigo 5.º do Regulamento (CE) n.º 847/96. |
+
+## Anexo II
+
+**1. Limites do esforço de pesca**
+
+1.1. Relativamente aos navios de pesca que arvoram o seu pavilhão, os Estados-Membros devem igualmente assegurar que a pesca com redes de arrasto, com redes de cerco dinamarquesas ou artes similares de malhagem igual ou superior a 90 mm, com redes de emalhar, redes de enredar ou tresmalhos de malhagem igual ou superior a 90 mm, com palangres fundeados, com outros palangres excepto palangres derivantes, com linhas de mão e toneiras seja autorizada durante um número máximo de
+
+a) 223 dias de ausência do porto nas subdivisões 22-24, excepto no período compreendido entre 1 e 30 de Abril, em que se aplica a alínea a), do n.º 1 do artigo 8.º do Regulamento (CE) n.º 1098/2007, e
+
+b) 178 dias de ausência do porto nas subdivisões 25-27, 28.2 excepto no período compreendido entre 1 de Julho e 31 de Agosto, em que se aplica a alínea b) do n.º 1 do artigo 8.º do Regulamento (CE) n.º 1098/2007.
+
+1.2. O número máximo de dias de ausência do porto por ano em que um navio pode estar presente nas duas áreas definidas nas alíneas a) e b) do ponto 1.1 e pescar com as artes de pesca referidas no ponto 1.1 não pode ser superior ao número mais elevado de dias atribuídos a uma das duas áreas.
+
+1.3. A Comissão pode atribuir aos Estados-Membros até quatro dias suplementares de ausência do porto, com base nas cessações definitivas das actividades de pesca com qualquer arte referida no n.º 1 do artigo 8.º do Regulamento (CE) n.º 1098/2007 ocorridas desde 1 de Janeiro de 2005 nas zonas em causa nos termos do artigo 7.º do Regulamento (CE) n.º 2792/1999, de 17 de Dezembro de 1999, que define os critérios e condições das acções estruturais no sector das pescas (
+
+11
+
+).
+
+1.4. Os Estados-Membros que pretendam beneficiar das atribuições descritas no ponto 1.3 devem apresentar um pedido à Comissão até 30 de Janeiro de 2008, acompanhado de relatórios em que sejam indicados os pormenores das cessações definitivas das actividades de pesca em causa. Com base nesse pedido, a Comissão pode alterar para o Estado-Membro em causa o número de dias de ausência do porto definido no ponto 1.1, nos termos do n.º 2 do artigo 30.º do Regulamento (CE) n.º 2371/2002.
+
+## Anexo III
+
+**MEDIDAS TÉCNICAS DE TRANSIÇÃO**
+
+**1. Restrições da pesca de solha-das-pedras e de pregado**
+
+1.1. É proibido manter a bordo as seguintes espécies de peixes capturadas nas zonas geográficas e durante os períodos abaixo indicados:
+
+| Espécie: | Zona geográfica | Período |
+|---|---|---|
+| Solha-das-pedras (Platichthys flesus) | Subdivisões 26 a 28, 29 a sul de 59°30′N <br> Subdivisão 32 | 15 de Fevereiro a 15 de Maio <br> 15 de Fevereiro a 31 de Maio |
+| Pregado (Psetta maxima) | Subdivisões 25 a 26, 28 a sul de 56°50′N | 1 de Junho a 31 de Julho |
+
+2. Em derrogação do ponto 1, durante os períodos de proibição referidos naquele ponto, as capturas incidentais de solha-das-pedras e de pregado pescadas com redes de arrasto, redes envolventes-arrastantes dinamarquesas ou artes similares de malhagem igual ou superior a 105 mm, com redes de emalhar, redes de enredar ou tresmalhos de malhagem igual ou superior a 100 mm podem ser mantidas a bordo e desembarcadas dentro de um limite de 10 % em peso vivo da captura total mantida a bordo e desembarcada.
+
+(
+
+1
+
+) JO L 358 de 31.12.2002, p. 59. Regulamento alterado pelo Regulamento (CE) n.º 865/2007 (JO L 192 de 24.7.2007, p. 1)
+
+(
+
+2
+
+) JO L 115 de 9.5.1996, p. 3.
+
+(
+
+3
+
+) JO L 248 de 22.9.2007, p. 1.
+
+(
+
+4
+
+) JO L 132 de 21.5.1987, p. 9.
+
+(
+
+5
+
+) JO L 276 de 10.10.1983, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1804/2005 (JO L 290 de 4.11.2005, p. 10).
+
+(
+
+6
+
+) JO L 261 de 20.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1967/2006 (JO L 409 de 30.12.2006, p. 11).
+
+(
+
+7
+
+) JO L 333 de 20.12.2003, p. 17.
+
+(
+
+8
+
+) JO L 274 de 25.9.1986, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 3259/94 (JO L 339 de 29.12.1994, p. 11).
+
+(
+
+9
+
+) JO L 365 de 31.12.1991, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 448/2005 da Comissão (JO L 74 de 19.3.2005, p. 5).
+
+(
+
+10
+
+) JO L 349 de 31.12.2005, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 809/2007 (JO L 182 de 12.7.2007, p. 1).
+
+(
+
+11
+
+) JO L 337 de 30.12.1999, p. 10. Regulamento revogado pelo Regulamento (CE) n.º 1198/2006 (JO L 223 de 15.8.2006, p. 1).

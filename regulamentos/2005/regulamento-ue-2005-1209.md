@@ -1,0 +1,137 @@
+---
+id: "regulamento-ue-2005-1209"
+celex: "32005R1209"
+title: "Regulamento (CE) n.° 1209/2005 da Comissão, de 27 de Julho de 2005, que altera o Regulamento (CE) n.° 174/2005 do Conselho que impõe restrições à prestação de assistência relacionada com actividades militares na Costa do Marfim"
+type: "Regulamento"
+number: "1209/2005"
+year: 2005
+date: 2005-07-27
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32005R1209"
+eli: "http://data.europa.eu/eli/reg/2005/1209/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (CE) n.° 1209/2005 da Comissão, de 27 de Julho de 2005, que altera o Regulamento (CE) n.° 174/2005 do Conselho que impõe restrições à prestação de assistência relacionada com actividades militares na Costa do Marfim
+
+## Considerandos
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 174/2005 do Conselho, de 31 de Janeiro de 2005, que impõe restrições à prestação de assistência relacionada com actividades militares na Costa do Marfim (1), nomeadamente o artigo 7.º,
+
+Considerando o seguinte:
+
+(1) O anexo II do Regulamento (CE) n.º 174/2005 contém a lista das autoridades competentes a quem foram atribuídas funções específicas relativamente à aplicação do referido regulamento.
+
+(2) A Bélgica, a Lituânia e os Países Baixos solicitaram a introdução de algumas alterações nos endereços das respectivas autoridades competentes,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+O anexo II do Regulamento (CE) n.º 174/2005 é alterado nos termos do anexo do presente regulamento.
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 27 de Julho de 2005.
+
+Pela Comissão
+
+Benita FERRERO-WALDNER
+
+Membro da Comissão
+
+(1)
+
+JO L 29 de 2.2.2005, p. 5.
+
+## Anexo
+
+O anexo II do Regulamento (CE) n.º 174/2005 é alterado da seguinte forma:
+
+1) O endereço que figura na rubrica «Bélgica» é substituído pelo texto seguinte:
+
+«SERVICE PUBLIC FÉDÉRAL, ÉCONOMIE, P.M.E.,
+
+CLASSES MOYENNES & ÉNERGIE
+
+Potentiel économique
+
+Direction Industries
+
+Textile — Diamants et autres secteurs
+
+City Atrium
+
+Rue du Progrès 50
+
+5e étage
+
+B-1210 Bruxelles
+
+Tél. général: (32-2) 277 51 11
+
+Fax: (32-2) 277 53 09/(32-2) 277 53 10
+
+FEDERALE OVERHEIDSDIENST ECONOMIE, K.M.O.,
+
+MIDDENSTAND & ENERGIE
+
+Economisch potentieel
+
+Directie Nijverheid
+
+Textiel — Diamant en andere sectoren
+
+City Atrium
+
+Vooruitgangstraat 50
+
+5de verdieping
+
+B-1210 Brussel
+
+Algemeen tel: (32-2) 277 51 11
+
+Fax: (32-2) 277 53 09/(32-2) 277 53 10».
+
+2) O endereço que figura na rubrica «Lituânia» é substituído pelo texto seguinte:
+
+«Ministry of Foreign Affaires
+
+Security Policy Department
+
+J. Tumo-Vaizganto 2
+
+LT-01511 Vilnius
+
+Tel.: (370-5) 236 25 16
+
+Fax: (370-5) 231 30 90».
+
+3) O endereço que figura na rubrica «Países Baixos» é substituído pelo texto seguinte:
+
+«Minister van Economische Zaken
+
+Belastingdienst/Douane Noord
+
+Postbus 40200
+
+8004 DE Zwolle
+
+Nederland
+
+Tel. (31-38) 467 25 41
+
+Fax (31-38) 469 52 29».

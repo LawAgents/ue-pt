@@ -1,0 +1,67 @@
+---
+id: "regulamento-ue-2018-1793"
+celex: "32018R1793"
+title: "Regulamento (UE) 2018/1793 da Comissão, de 20 de novembro de 2018, que aprova a alteração da ficha técnica de uma indicação geográfica de bebida espirituosa registada no anexo III do Regulamento (CE) n.° 110/2008, que conduziu à alteração das suas especificações principais [«Ron de Guatemala» (IG)]"
+type: "Regulamento"
+number: "2018/1793"
+year: 2018
+date: 2018-11-20
+status: "em vigor"
+text_version: "original sem consolidação"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32018R1793"
+eli: "http://data.europa.eu/eli/reg/2018/1793/oj"
+retrieved: 2026-10-21
+legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Regulamento (UE) 2018/1793 da Comissão, de 20 de novembro de 2018, que aprova a alteração da ficha técnica de uma indicação geográfica de bebida espirituosa registada no anexo III do Regulamento (CE) n.° 110/2008, que conduziu à alteração das suas especificações principais [«Ron de Guatemala» (IG)]
+
+## Considerandos
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 110/2008 do Parlamento Europeu e do Conselho, de 15 de janeiro de 2008, relativo à definição, designação, apresentação, rotulagem e proteção das indicações geográficas das bebidas espirituosas e que revoga o Regulamento (CEE) n.º 1576/89 do Conselho (1), nomeadamente o artigo 17.º, n.º 8, e o artigo 21.º,
+
+Considerando o seguinte:
+
+(1) Em conformidade com o artigo 17.º, n.º 5, do Regulamento (CE) n.º 110/2008, a Comissão examinou o pedido, apresentado pela «Asociación Nacional de Fabricantes de Alcoholes y Licores (ANFAL)», de aprovação de uma alteração da ficha técnica da indicação geográfica «Ron de Guatemala», registada nos termos do mesmo regulamento (2).
+
+(2) Tendo concluído pela sua conformidade com o Regulamento (CE) n.º 110/2008, a Comissão, em aplicação do artigo 17.º, n.º 6, deste regulamento, publicou o pedido de alteração no Jornal Oficial da União Europeia (3).
+
+(3) Uma vez que não foi apresentada à Comissão nenhuma declaração de oposição em conformidade com o artigo 17.º, n.º 7, do Regulamento (CE) n.º 110/2008, é conveniente aprovar a alteração da ficha técnica nos termos do artigo 17.º, n.º 8, do mesmo regulamento.
+
+(4) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité das Bebidas Espirituosas,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+## Artigo 1.º
+
+É aprovada a alteração da ficha técnica da denominação «Ron de Guatemala» (IG) publicada no Jornal Oficial da União Europeia.
+
+## Artigo 2.º
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+## Assinatura
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 20 de novembro de 2018.
+
+Pela Comissão
+
+O Presidente
+
+Jean-Claude JUNCKER
+
+(1)
+
+JO L 39 de 13.2.2008, p. 16.
+
+(2) Regulamento (UE) n.º 97/2014 da Comissão, de 3 de fevereiro de 2014, que altera o anexo III do Regulamento (CE) n.º 110/2008 do Parlamento Europeu e do Conselho relativo à definição, designação, apresentação, rotulagem e proteção das indicações geográficas das bebidas espirituosas (JO L 33 de 4.2.2014, p. 1).
+
+(3)
+
+JO C 317 de 23.9.2017, p. 6.

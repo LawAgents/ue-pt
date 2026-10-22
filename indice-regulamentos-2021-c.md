@@ -1,0 +1,7 @@
+# Índice: regulamentos
+
+| id | título | caminho | nome comum | siglas | sumário | source | last_amended | text_version |
+|---|---|---|---|---|---|---|---|---|
+| regulamento-ue-2021-976 | Regulamento (UE) 2021/976 da Comissão de 4 de junho de 2021 que altera os anexos II, III e IV do Regulamento (CE) n.o 396/2005 do Parlamento Europeu e do Conselho no que se refere aos limites máximos de resíduos de cicloxidime, mepiquato, Metschnikowia fructicola estirpe NRRL Y-27328 e pro-hexadiona no interior e à superfície de certos produtos (Texto relevante para efeitos do EEE) | regulamentos/2021/regulamento-ue-2021-976.md |  |  |  | https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32021R0976 |  | original sem consolidação |
+| regulamento-ue-2021-979 | Regulamento (UE) 2021/979 da Comissão de 17 de junho de 2021 que altera os anexos VII a XI do Regulamento (CE) n.o 1907/2006 do Parlamento Europeu e do Conselho relativo ao registo, avaliação, autorização e restrição dos produtos químicos (REACH) (Texto relevante para efeitos do EEE) | regulamentos/2021/regulamento-ue-2021-979.md |  |  |  | https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32021R0979 |  | original sem consolidação |
+| regulamento-ue-2021-996 | Regulamento (UE) 2021/996 do Conselho de 21 de junho de 2021 que altera o Regulamento (CE) n.o 765/2006 que impõe medidas restritivas contra a Bielorrússia | regulamentos/2021/regulamento-ue-2021-996.md |  |  |  | https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32021R0996 |  | original sem consolidação |
