@@ -24,7 +24,7 @@ em cada resposta, com os comandos `/lei-ue`, `/artigo-ue` e `/pesquisar-ue`.
 
 ## O que contém
 
-5.439 atos em vigor, em 9.207 ficheiros (os atos grandes estão divididos em partes).
+5.439 atos em vigor, em 9.122 ficheiros (os atos grandes estão divididos em partes).
 
 | Tipo de ato | Atos |
 | --- | ---: |
@@ -51,6 +51,8 @@ são de 2026-10-22.
 - Versões anteriores de um ato: o histórico fica no git, com um commit por atualização.
 - Legislação portuguesa: está em [LawAgents/pt](https://github.com/LawAgents/pt).
 
+`COBERTURA.md` e `estatisticas.html` são gerados por `python -I scripts/estatisticas.py` e não se atualizam sozinhos: refazem-se à mão depois de uma atualização.
+
 ---
 
 ## Estrutura
@@ -63,8 +65,10 @@ nomes-comuns.md                                nomes e siglas (RGPD, AI Act) par
 indice.md  indice-regulamentos-*.md            índices por tipo e ano (ficheiros de até 40 KB)
 indice-diretivas-*.md
 revogados.md                                   atos que deixaram de estar em vigor
+COBERTURA.md                                   números por tipo, década e versão, e o que ficou de fora
+estatisticas.html                              página com gráficos, um único ficheiro para abrir no navegador
 config/                                        lista de nomes comuns e ids portugueses
-scripts/                                       o código que descarrega, converte, valida e gera os índices
+scripts/                                       o código que descarrega, converte, valida e gera os índices e as estatísticas
 docs/kit.md                                    kit de agente legal pessoal
 ```
 
