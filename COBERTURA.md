@@ -1,6 +1,6 @@
 # Cobertura: Direito da União Europeia em português
 
-Números medidos nos cabeçalhos dos ficheiros publicados em 2026-10-22. Gerado por `scripts/estatisticas.py`.
+Números medidos nos cabeçalhos dos ficheiros publicados em 2026-10-25. Gerado por `scripts/estatisticas.py`.
 
 - Atos em vigor: **5.439**, em 9.122 ficheiros (379 MB sem compressão).
 - Atos revogados listados em `revogados.md`: 0.

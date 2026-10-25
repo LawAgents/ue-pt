@@ -39,3 +39,4 @@ Este ato está dividido em partes. Cada parte é um ficheiro; os números de art
 ## Transposição para Portugal
 
 - Lei n.º 62/2026, de 10 de setembro de 2026 (id: lei-62-2026; fonte: https://data.dre.pt/eli/lei/62/2026/09/10/p/dre/pt/html)
+- Lei n.º 27/2008, de 16 de outubro de 2026 (id: lei-27-2008; fonte: https://data.dre.pt/eli/lei/27/2008/p/cons/20260910/pt/html)

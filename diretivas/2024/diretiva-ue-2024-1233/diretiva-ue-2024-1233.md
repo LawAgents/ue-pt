@@ -35,3 +35,7 @@ Este ato está dividido em partes. Cada parte é um ficheiro; os números de art
 ## Transposição para Portugal
 
 - Lei n.º 62/2026, de 10 de setembro de 2026 (id: lei-62-2026; fonte: https://data.dre.pt/eli/lei/62/2026/09/10/p/dre/pt/html)
+- Lei n.º 23/2007, de 16 de outubro de 2026 (id: lei-23-2007; fonte: https://data.dre.pt/eli/lei/23/2007/p/cons/20260910/pt/html)
+- Código CPA, de 16 de outubro de 2026 (fonte: https://data.dre.pt/eli/dec-lei/4/2015/p/cons/20230228/pt/html)
+- Código CPTA, de 16 de outubro de 2026 (fonte: https://data.dre.pt/eli/lei/15/2002/p/cons/20260806/pt/html)
+- Código CT, de 16 de outubro de 2026 (fonte: https://data.dre.pt/eli/lei/7/2009/p/cons/20250327/pt/html)

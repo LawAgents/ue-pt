@@ -367,3 +367,7 @@ As infrações desta categoria incluem:
 | Anexos I, II e III | Anexos I, II e III |
 | - | Anexo IV |
 | - | Anexo V |
+
+## Transposição para Portugal
+
+- Decreto-Lei n.º 204/2026, de 22 de outubro de 2026 (fonte: https://data.dre.pt/eli/dec-lei/204/2026/10/22/p/dre/pt/html)

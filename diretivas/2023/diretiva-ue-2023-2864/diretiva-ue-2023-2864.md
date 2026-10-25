@@ -32,3 +32,9 @@ Este ato está dividido em partes. Cada parte é um ficheiro; os números de art
 
 - Decreto-Lei n.º 171/2026, de 26 de agosto de 2026 (id: decreto-lei-171-2026; fonte: https://data.dre.pt/eli/dec-lei/171/2026/08/26/p/dre/pt/html)
 - Decreto n.º 35/2026, de 15 de setembro de 2026 (fonte: https://data.dre.pt/eli/declretif/35/2026/09/15/p/dre/pt/html)
+- Lei n.º 147/2015, de 21 de outubro de 2026 (id: lei-147-2015; fonte: https://data.dre.pt/eli/lei/147/2015/p/cons)
+- Lei n.º 148/2015, de 21 de outubro de 2026 (id: lei-148-2015; fonte: https://data.dre.pt/eli/lei/148/2015/p/cons)
+- Decreto-Lei n.º 262/86, de 21 de outubro de 2026 (id: decreto-lei-262-1986)
+- Decreto-Lei n.º 27/2023, de 21 de outubro de 2026 (id: decreto-lei-27-2023; fonte: https://data.dre.pt/eli/dec-lei/27/2023/p/cons)
+- Decreto-Lei n.º 31/2022, de 21 de outubro de 2026 (id: decreto-lei-31-2022; fonte: https://data.dre.pt/eli/dec-lei/31/2022/p/cons)
+- Código CVM, de 21 de outubro de 2026 (fonte: https://data.dre.pt/eli/dec-lei/486/1999/p/cons/20260826/pt/html)

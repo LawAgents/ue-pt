@@ -283,3 +283,7 @@ Chumbo e seus compostos inorgânicos
 ELI: http://data.europa.eu/eli/dir/2024/869/oj
 
 ISSN 1977-0774 (electronic edition)
+
+## Transposição para Portugal
+
+- Decreto-Lei n.º 203/2026, de 22 de outubro de 2026 (fonte: https://data.dre.pt/eli/dec-lei/203/2026/10/22/p/dre/pt/html)

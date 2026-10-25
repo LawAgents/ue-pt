@@ -323,3 +323,4 @@ ISSN 1977-0774 (electronic edition)
 
 - Decreto-Lei n.º 171/2026, de 26 de agosto de 2026 (id: decreto-lei-171-2026; fonte: https://data.dre.pt/eli/dec-lei/171/2026/08/26/p/dre/pt/html)
 - Decreto n.º 35/2026, de 15 de setembro de 2026 (fonte: https://data.dre.pt/eli/declretif/35/2026/09/15/p/dre/pt/html)
+- Código CVM, de 20 de outubro de 2026 (fonte: https://data.dre.pt/eli/dec-lei/486/1999/p/cons/20260826/pt/html)
