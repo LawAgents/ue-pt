@@ -8,11 +8,11 @@ year: 2016
 date: 2016-01-18
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2026-06-16
-consolidated_celex: "02016R0044-20260616"
-source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02016R0044-20260616"
+last_amended: 2026-10-13
+consolidated_celex: "02016R0044-20261013"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02016R0044-20261013"
 eli: "http://data.europa.eu/eli/reg/2016/44/oj"
-retrieved: 2026-10-21
+retrieved: 2026-11-01
 legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
 ---
 

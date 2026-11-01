@@ -8,11 +8,11 @@ year: 2018
 date: 2018-07-04
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2025-10-01
-consolidated_celex: "02018R0975-20251001"
-source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02018R0975-20251001"
+last_amended: 2026-08-21
+consolidated_celex: "02018R0975-20260821"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02018R0975-20260821"
 eli: "http://data.europa.eu/eli/reg/2018/975/oj"
-retrieved: 2026-10-21
+retrieved: 2026-11-01
 legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "regulamento-ue-2018-975"
 part: "Título I a Anexo IX"
@@ -110,7 +110,7 @@ Os Estados-Membros asseguram a presença de observadores científicos, no mínim
 
 a) Até ao dia 15 de cada mês, a lista dos navios de pesca que arvoram o seu pavilhão e que exerceram a pesca ativa ou participaram em operações de transbordo na zona da Convenção da SPRFMO no mês anterior. A Comissão transmite essas informações ao Secretariado da SPRFMO até ao dia 20 de cada mês;
 
-b) O mais tardar 45 dias antes da reunião do Comité Científico da SPRFMO, o relatório científico anual sobre o ano anterior, incluindo os dados das observações tanto quanto possível. A Comissão transmite essas informações ao Secretariado da SPRFMO, o mais tardar 30 dias antes da reunião do Comité Científico da SPRFMO.
+b) Até ao dia 15 de junho de cada ano, o relatório científico anual sobre o ano anterior, incluindo os dados de observação, tanto quanto possível. A Comissão transmite essas informações ao Secretariado da SPRFMO até 30 de junho.
 
 #### Artigo 8.º — Repartição das possibilidades de pesca para o carapau-chileno
 
@@ -336,7 +336,7 @@ Os Estados-Membros podem autorizar o operador do navio de pesca da União a comu
 
 1. Para além dos requisitos de comunicação de dados estabelecidos nos artigos 7.º, 11.º, 14.º, 16.º, 18.º, 25.º e 26.º, os Estados-Membros cujos navios pescam na zona da Convenção da SPRFMO apresentam à Comissão os conjuntos de dados indicados nos n.ºs 2 e 3 do presente artigo.
 
-2. Os Estados-Membros cujos navios pescam na zona da Convenção da SPRFMO comunicam à Comissão, até 15 de setembro de cada ano, o peso vivo de todas as espécies/grupos de espécies capturadas durante o ano civil anterior. A Comissão transmite essas informações ao Secretariado da SPRFMO até 30 de setembro.
+2. Os Estados-Membros cujos navios pescam na zona da Convenção da SPRFMO comunicam à Comissão, até 15 de junho de cada ano, o peso vivo de todas as espécies/grupos de espécies capturadas durante o ano civil anterior. A Comissão transmite essas informações ao Secretariado da SPRFMO até 30 de junho. Em casos excecionais, e apenas se for apresentada à Comissão, até 15 de junho, uma notificação escrita explicando a necessidade para tal, o Estado-Membro pode obter uma prorrogação para apresentar os dados provisórios até 30 de junho e os dados definitivos o mais rapidamente possível e o mais tardar até 15 de setembro. A Comissão transmite as explicações e os dados provisórios ao Secretariado da SPRFMO até 30 de junho e os dados finais até 30 de setembro.
 
 3. Os Estados-Membros cujos navios pescam na zona da Convenção da SPRFMO comunicam à Comissão, até 15 de junho de cada ano, os dados relativos às atividades de pesca de arrasto, discriminados por lanços; os dados relativos aos palangres de fundo, discriminados por lanços; e os dados relativos aos desembarques, inclusive para navios-frigoríficos, e aos transbordos. A Comissão transmite essas informações ao Secretariado da SPRFMO até 30 de junho.
 
@@ -542,17 +542,15 @@ O presente regulamento entra em vigor no terceiro dia seguinte ao da sua publica
 
 O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
 
-## Anexo I
+## Anexo I — Normas relativas à lastragem dos palangres
 
-**Normas relativas à lastragem dos palangres**
+1. Para os sistemas de lastros exteriores, os navios devem utilizar um regime de lastragem dos palangres que permita atingir uma velocidade mínima demonstrável de imersão do palangre de 0,3 metros/segundo até que a arte atinja uma profundidade de 15 metros. Em especial:
 
-Os navios devem utilizar um regime de lastragem dos palangres que permita atingir uma velocidade mínima demonstrável de imersão do palangre de 0,3 metros/segundo até que a arte atinja uma profundidade de 15 metros. Em especial:
+a) Os palangres na configuração do sistema espanhol e do sistema artesanal (trotline) devem utilizar lastros exteriores de pelo menos 8,5 kg a intervalos não superiores a 40 m, se forem utilizadas pedras, 6 kg a intervalos não superiores a 20 m, se forem utilizados pesos em betão, e 5 kg a intervalos não superiores a 40 m, se forem utilizados pesos em metal maciço;
 
-a) Os palangres no sistema espanhol e no sistema artesanal (trotline) devem utilizar lastros exteriores de pelo menos 8,5 kg a intervalos não superiores a 40 m, se forem utilizadas pedras, 6 kg a intervalos não superiores a 20 m, se forem utilizados pesos em betão, e 5 kg a intervalos não superiores a 40 m, se forem utilizados pesos em metal maciço;
+b) Os palangres automáticos do tipo autoline devem utilizar lastros exteriores de pelo menos 5 kg a intervalos não superiores a 40 m, que devem ser largados dos navios de forma a evitar tensão à ré (que pode fazer emergir secções do palangre já lançadas).
 
-b) Os palangres automáticos do tipo autoline devem utilizar lastros exteriores de pelo menos 5 kg a intervalos não superiores a 40 m, que devem ser largados dos navios de forma a evitar tensão à ré (que pode fazer emergir secções do palangre já lançadas);
-
-c) Os palangres com lastros integrados devem ter um núcleo de chumbo com um peso de pelo menos 50 g/m.
+2. Para os navios que utilizam palangres com lastros interiores, estes devem ter um núcleo de chumbo de pelo menos 50 g/m, imergir instantaneamente com um perfil linear e atingir uma velocidade de imersão superior a 0,2 metros/segundo.
 
 ## Anexo II
 
@@ -630,7 +628,7 @@ ii) Número de registo
 
 iii) IRCS (caso exista)
 
-iv) Número UVI (identificador único dos navios)/OMI
+iv) Número OMI
 
 v) Nomes anteriores (se conhecidos)
 
@@ -660,7 +658,7 @@ xvii) Número de congeladores (se aplicável)
 
 xviii) Capacidade de congelação (se aplicável)
 
-xix) Tipos e números dos meios de comunicação do navio (números INMARSAT A, B e C)
+xix) Tipos e números dos meios de comunicação do navio (por exemplo, números INMARSAT A, B e C, TSACOM, VSAT, STARLINK), que devem ser compatíveis com os utilizados pelo Secretariado da SPRFMO
 
 xx) Dados do sistema VMS (marca, modelo, características e identificação)
 

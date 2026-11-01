@@ -8,11 +8,11 @@ year: 2016
 date: 2016-01-18
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2026-06-16
-consolidated_celex: "02016R0044-20260616"
-source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02016R0044-20260616"
+last_amended: 2026-10-13
+consolidated_celex: "02016R0044-20261013"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02016R0044-20261013"
 eli: "http://data.europa.eu/eli/reg/2016/44/oj"
-retrieved: 2026-10-21
+retrieved: 2026-11-01
 legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "regulamento-ue-2016-44"
 part: "Anexo II a Anexo VII"
@@ -474,6 +474,16 @@ Correio eletrónico: relex-sanctions@ec.europa.eu
 
 —————
 
+1.
+
+Nome: AVAX
+
+Incluído na lista em 22 de julho de 2026. Incluído na lista nos termos do ponto 10, alíneas a), b), c), e d), da Resolução 2146 (2014), com a redação que lhe foi dada pelo ponto 2 das Resoluções 2441 (2018) e 2509 (2020) e prorrogada pela Resolução 2819 (2026) (proibição de carga, transporte ou descarga; proibição de entrada nos portos; proibição de prestar serviços de abastecimento de combustível ou de qualquer outro serviço a navios; proibição de realizar transações financeiras relativas a petróleo). Nos termos do ponto 11 da Resolução 2146, tal como alterada pelo ponto 2 da Resolução 2509 (2020), esta designação é válida de 22 de julho de 2026 a 22 de julho de 2027, salvo anulação antecipada pelo Comité nos termos do ponto 12 da Resolução 2146 (2014).
+
+Informações adicionais
+
+Número OMI: 9058713. Estado de pavilhão: Camarões Em 4 de abril de 2026, o navio encontrava-se perto da zona de fundeamento do Porto Velho de Benghazi, na Líbia.
+
 ## Anexo VI
 
 **LISTA DAS PESSOAS COLETIVAS, ENTIDADES OU ORGANISMOS REFERIDOS NO ARTIGO 5.º, N.º 4**
@@ -546,12 +556,6 @@ Os códigos da nomenclatura provêm da Nomenclatura Combinada, definida no artig
 (
 
 5
-
-) Decisão (PESC) 2020/472 do Conselho, de 31 de março de 2020, relativa a uma operação militar da União Europeia no Mediterrâneo (operação EUNAVFOR MED IRINI) (JO L 101 de 1.4.2020, p. 4).
-
-(
-
-6
 
 )
 

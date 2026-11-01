@@ -8,11 +8,11 @@ year: 2024
 date: 2024-10-08
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2026-07-13
-consolidated_celex: "02024R2642-20260713"
-source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02024R2642-20260713"
+last_amended: 2026-09-24
+consolidated_celex: "02024R2642-20260924"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02024R2642-20260924"
 eli: "http://data.europa.eu/eli/reg/2024/2642/oj"
-retrieved: 2026-10-21
+retrieved: 2026-11-01
 legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "regulamento-ue-2024-2642"
 part: "Artigo 1.º a Assinatura"

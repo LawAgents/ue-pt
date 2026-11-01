@@ -8,11 +8,11 @@ year: 2016
 date: 2016-01-18
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2026-06-16
-consolidated_celex: "02016R0044-20260616"
-source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02016R0044-20260616"
+last_amended: 2026-10-13
+consolidated_celex: "02016R0044-20261013"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02016R0044-20261013"
 eli: "http://data.europa.eu/eli/reg/2016/44/oj"
-retrieved: 2026-10-21
+retrieved: 2026-11-01
 legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "regulamento-ue-2016-44"
 part: "Artigo 1.º a Anexo I"
@@ -446,15 +446,7 @@ c) Alterar o anexo VII para especificar ou adaptar a lista de artigos nele inclu
 
 2. Os Estados-Membros devem comunicar esse regime à Comissão sem demora após a entrada em vigor do presente regulamento e notificá-la de qualquer alteração posterior.
 
-## Artigo 22.º-A
-
-1. Um Estado-Membro que preste assistência à operação EUNAVFOR MED IRINI em conformidade com o artigo 2.º, n.º 5, da Decisão (PESC) 2020/472 do Conselho (
-
-5
-
-) deve tomar as medidas necessárias para eliminar, em nome desta, as armas ou material conexo, incluindo os produtos e tecnologias abrangidos pela Lista Militar Comum da União, que sejam transportados no alto mar em violação da proibição referida no artigo 5.º-A, n.º 1, da Decisão (PESC) 2015/1333 e que tenham sido apreendidos pela operação EUNAVFOR MED IRINI no alto mar em conformidade com o artigo 2.º, n.º 3, da Decisão (PESC) 2020/472.
-
-2. Essa eliminação pode ocorrer, nomeadamente, através da destruição desses artigos, tornando-os inoperáveis ou permitindo a sua utilização, inclusive por terceiros, impedindo ao mesmo tempo a sua transferência subsequente para a Líbia ou para qualquer outro país terceiro para o qual esteja proibida a transferência de armamento ou material conexo.
+—————
 
 ## Artigo 23.º
 
@@ -494,7 +486,7 @@ O presente regulamento é obrigatório em todos os seus elementos e diretamente 
 
 1.1 Armas de fogo não abrangidas pela LM 1 e pela LM 2 da Lista Militar Comum da União Europeia (
 
-6
+5
 
 ) («Lista Militar Comum»);
 

@@ -8,11 +8,11 @@ year: 2017
 date: 2017-12-12
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2026-07-31
-consolidated_celex: "02017R2394-20260731"
-source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02017R2394-20260731"
+last_amended: 2026-09-12
+consolidated_celex: "02017R2394-20260912"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02017R2394-20260912"
 eli: "http://data.europa.eu/eli/reg/2017/2394/oj"
-retrieved: 2026-10-21
+retrieved: 2026-11-01
 legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
 ---
 

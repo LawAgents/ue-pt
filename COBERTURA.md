@@ -1,15 +1,15 @@
 # Cobertura: Direito da União Europeia em português
 
-Números medidos nos cabeçalhos dos ficheiros publicados em 2026-10-25. Gerado por `scripts/estatisticas.py`.
+Números medidos nos cabeçalhos dos ficheiros publicados em 2026-11-01. Gerado por `scripts/estatisticas.py`.
 
-- Atos em vigor: **5.439**, em 9.122 ficheiros (379 MB sem compressão).
+- Atos em vigor: **5.440**, em 9.121 ficheiros (379 MB sem compressão).
 - Atos revogados listados em `revogados.md`: 0.
 
 ## Por tipo de ato
 
 | Tipo | Atos |
 | --- | ---: |
-| Regulamento | 4.595 |
+| Regulamento | 4.596 |
 | Diretiva | 844 |
 
 ## Por versão do texto
@@ -17,7 +17,7 @@ Números medidos nos cabeçalhos dos ficheiros publicados em 2026-10-25. Gerado 
 | Texto | Atos |
 | --- | ---: |
 | original sem consolidação | 4.009 |
-| consolidado | 1.430 |
+| consolidado | 1.431 |
 
 ## Por década do ato
 
@@ -30,13 +30,13 @@ Números medidos nos cabeçalhos dos ficheiros publicados em 2026-10-25. Gerado 
 | 1990 | 119 |
 | 2000 | 1.749 |
 | 2010 | 2.315 |
-| 2020 | 1.207 |
+| 2020 | 1.208 |
 
 ## Por pasta
 
 | Pasta | Atos |
 | --- | ---: |
-| regulamentos | 4.595 |
+| regulamentos | 4.596 |
 | diretivas | 844 |
 
 ## O que ficou de fora e porquê

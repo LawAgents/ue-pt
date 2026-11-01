@@ -8,11 +8,11 @@ year: 2018
 date: 2018-07-04
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2025-10-01
-consolidated_celex: "02018R0975-20251001"
-source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02018R0975-20251001"
+last_amended: 2026-08-21
+consolidated_celex: "02018R0975-20260821"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02018R0975-20260821"
 eli: "http://data.europa.eu/eli/reg/2018/975/oj"
-retrieved: 2026-10-21
+retrieved: 2026-11-01
 legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
 ---
 
@@ -44,7 +44,7 @@ Este ato está dividido em partes. Cada parte é um ficheiro; os números de art
   - Capítulo VI — Medidas coercivas (regulamento-ue-2018-975-titulo-i-a-anexo-ix.md)
 - Título V — DISPOSIÇÕES FINAIS (regulamento-ue-2018-975-titulo-i-a-anexo-ix.md)
 - Assinatura (regulamento-ue-2018-975-titulo-i-a-anexo-ix.md)
-- Anexo I (regulamento-ue-2018-975-titulo-i-a-anexo-ix.md)
+- Anexo I — Normas relativas à lastragem dos palangres (regulamento-ue-2018-975-titulo-i-a-anexo-ix.md)
 - Anexo II (regulamento-ue-2018-975-titulo-i-a-anexo-ix.md)
 - Anexo III (regulamento-ue-2018-975-titulo-i-a-anexo-ix.md)
 - Anexo IV (regulamento-ue-2018-975-titulo-i-a-anexo-ix.md)

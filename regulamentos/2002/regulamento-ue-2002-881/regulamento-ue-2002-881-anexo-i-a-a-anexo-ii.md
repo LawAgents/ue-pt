@@ -8,11 +8,11 @@ year: 2002
 date: 2002-05-27
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2026-09-22
-consolidated_celex: "02002R0881-20260922"
-source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02002R0881-20260922"
+last_amended: 2026-10-10
+consolidated_celex: "02002R0881-20261010"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02002R0881-20261010"
 eli: "http://data.europa.eu/eli/reg/2002/881/oj"
-retrieved: 2026-10-21
+retrieved: 2026-11-01
 legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "regulamento-ue-2002-881"
 part: "Anexo I-A a Anexo II"

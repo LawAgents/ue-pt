@@ -8,11 +8,11 @@ year: 2017
 date: 2017-12-12
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2026-07-31
-consolidated_celex: "02017R2394-20260731"
-source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02017R2394-20260731"
+last_amended: 2026-09-12
+consolidated_celex: "02017R2394-20260912"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02017R2394-20260912"
 eli: "http://data.europa.eu/eli/reg/2017/2394/oj"
-retrieved: 2026-10-21
+retrieved: 2026-11-01
 legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "regulamento-ue-2017-2394"
 part: "Anexo"
@@ -82,7 +82,7 @@ part: "Anexo"
 
 29. Regulamento (UE) 2023/2854 do Parlamento Europeu e do Conselho, de 13 de dezembro de 2023, relativo a regras harmonizadas sobre o acesso equitativo aos dados e a sua utilização e que altera o Regulamento (UE) 2017/2394 e a Diretiva (UE) 2020/1828 (Regulamento dos Dados) (JO L, 2023/2854, 22.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2854/oj).
 
-29. Diretiva (UE) 2024/1799 do Parlamento Europeu e do Conselho, de 13 de junho de 2024, relativa a regras comuns para promover a reparação de bens e que altera o Regulamento (UE) 2017/2394 e as Diretivas (UE) 2019/771 e (UE) 2020/1828 (JO L, 2024/1799, 10.7.2024, ELI: http://data.europa.eu/eli/dir/2024/1799/oj).
+30. Diretiva (UE) 2024/1799 do Parlamento Europeu e do Conselho, de 13 de junho de 2024, relativa a regras comuns para promover a reparação de bens e que altera o Regulamento (UE) 2017/2394 e as Diretivas (UE) 2019/771 e (UE) 2020/1828 (JO L, 2024/1799, 10.7.2024, ELI: http://data.europa.eu/eli/dir/2024/1799/oj).
 
 (
 

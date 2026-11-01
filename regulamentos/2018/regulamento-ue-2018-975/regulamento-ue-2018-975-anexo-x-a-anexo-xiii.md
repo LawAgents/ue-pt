@@ -8,11 +8,11 @@ year: 2018
 date: 2018-07-04
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2025-10-01
-consolidated_celex: "02018R0975-20251001"
-source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02018R0975-20251001"
+last_amended: 2026-08-21
+consolidated_celex: "02018R0975-20260821"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02018R0975-20260821"
 eli: "http://data.europa.eu/eli/reg/2018/975/oj"
-retrieved: 2026-10-21
+retrieved: 2026-11-01
 legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "regulamento-ue-2018-975"
 part: "Anexo X a Anexo XIII"
@@ -42,7 +42,7 @@ e) Número de registo
 
 f) IRCS (se aplicável)
 
-g) Número Lloyd/OMI (se atribuído)
+g) Número OMI
 
 h) Nomes anteriores (se conhecidos)
 
@@ -139,6 +139,10 @@ iii) Descrever o tipo de gestão das descargas de resíduos de peixe/devoluçõe
 iv) Recorreu-se a outras medidas para reduzir as capturas acessórias de mamíferos marinhos, aves marinhas, répteis ou outras espécies que suscitam preocupação? (Sim/Não)
 
 Em caso afirmativo, descrever.
+
+r) Data e hora em que a arte acaba de ser alada (momento em que a totalidade da arte está a bordo — UTC)
+
+s) Número de viragens com as portas de arrasto à superfície
 
 **C. Dados relativos às capturas e ao esforço a recolher em relação à atividade de pesca com rede de cerco com retenida**
 
@@ -409,7 +413,7 @@ A repartição do esforço de observação entre estas atividades dependerá do 
 
 a) As espécies devem ser descritas utilizando os códigos FAO das espécies, de 3 letras;
 
-b) Os métodos devem ser descritos utilizando os códigos da Classificação Estatística Internacional dos Tipos de Artes de Pesca (CEITAP — 29 de julho de 1980);
+b) Os métodos devem ser descritos utilizando os códigos da Classificação Estatística Internacional Normalizada das Artes de Pesca (CEINAP)
 
 c) Os tipos de navios de pesca devem ser descritos utilizando os códigos da Classificação Estatística Internacional dos Tipos de Navios de Pesca (CEITNP).
 
@@ -618,7 +622,7 @@ c) Número de registo do navio de pesca
 
 d) IRCS (caso exista)
 
-e) Número Lloyd/OMI (se atribuído)
+e) Número OMI
 
 f) Tipo de navio (utilizar os códigos adequados da CEITNP)
 
@@ -701,7 +705,7 @@ As secções G (Capturas ocasionais) e H (EMV) não são consideradas pertinente
 |---|---|---|---|---|---|
 | (1) <br> Deve tratar-se de um porto designado conforme recenseado no registo dos portos da SPRFMO. <br> (2) <br> Por exemplo: Desembarque, Transbordo, Abastecimento de combustível. |  |  |  |  |  |
 
-**9. Espécies geridas pela SPRFMO mantidas a bordo**
+**9. Total das capturas a bordo**
 
 | Espécie | Zona FAO de captura | Estado do produto | Total das capturas mantidas a bordo, em quilogramas (estimativa) | Quantidade a transbordar/desembarcar (estimativa) | Recetor da quantidade transbordada/desembarcada |
 |---|---|---|---|---|---|
@@ -756,35 +760,37 @@ Se a bordo não houver nenhuma espécie gerida pela SPRFMO e/ou nenhum produto d
 | O navio está incluído no registo de navios da SPRFMO? | Sim/Não | Atualmente autorizado? | Sim/Não |
 | (1) <br> Se a autorização se destinar ao transbordo, indicar «transbordo» como arte de pesca. |  |  |  |
 
-**4. Espécies geridas pela SPRFMO descarregadas (durante esta escala)**
+**4. Avaliação das capturas descarregadas (durante esta escala)**
 
-| Espécie | Zona FAO de captura | Estado do produto | Quantidade declarada descarregada (kg) | Quantidade descarregada (kg) |
-|---|---|---|---|---|
+| Espécie | Zona FAO de captura | Estado do produto | Quantidade declarada descarregada (kg) | Quantidade descarregada (kg) | Diferença eventual entre a quantidade declarada e a quantidade determinada |
+|---|---|---|---|---|---|
 
-**5. Espécies geridas pela SPRFMO mantidas a bordo**
+**5. Avaliação das capturas mantidas a bordo**
 
-| Espécie | Zona FAO de captura | Estado do produto | Quantidade declarada mantida a bordo (kg) | Quantidade mantida a bordo (kg) |
-|---|---|---|---|---|
+| Espécie | Zona FAO de captura | Estado do produto | Quantidade declarada mantida a bordo (kg) | Quantidade mantida a bordo (kg) | Diferença eventual entre a quantidade declarada e a quantidade determinada |
+|---|---|---|---|---|---|
 
 **6. Espécies geridas pela SPRFMO recebidas de um transbordo (durante esta escala)**
 
-| Espécie | Zona FAO de captura | Estado do produto | Quantidade declarada recebida (kg) | Quantidade recebida (kg) |
-|---|---|---|---|---|
+| Espécie | Zona FAO de captura | Estado do produto | Quantidade declarada recebida (kg) | Quantidade recebida (kg) | Diferença eventual entre a quantidade declarada e a quantidade determinada |
+|---|---|---|---|---|---|
 
-**7. Exames e conclusões**
+**7. Exame e conclusões**
 
 | Secção | Observações |
 |---|---|
 | Exame dos diários de bordo e outra documentação |  |
 | Cumprimento do ou dos regimes de documentação das capturas aplicáveis |  |
 | Cumprimento do ou dos sistemas de informações comerciais aplicáveis |  |
-| Tipo de arte de pesca a bordo |  |
+| Tipo de artes de pesca a bordo |  |
+| Artes de pesca examinadas (1) |  |
 | Conclusões dos inspetores |  |
 | Presumíveis infrações (incluindo referência aos instrumentos jurídicos pertinentes) |  |
 | Comentários do capitão do navio |  |
 | Medidas tomadas |  |
 | Assinatura do capitão do navio |  |
 | Assinatura do inspetor |  |
+| (1) <br> Exame, na medida do possível, de todas as artes de pesca a bordo, incluindo as que não estejam à vista e os dispositivos conexos, e, na medida do possível, verificação da conformidade das mesmas com as condições especificadas nas autorizações. As artes de pesca devem também, tanto quanto possível, ser verificadas a fim de controlar se as suas características — nomeadamente malhagem e fio, dispositivos e fixações, dimensões e configuração das redes, nassas, dragas, tamanho e número dos anzóis — cumprem os regulamentos aplicáveis e se as marcas que ostentam correspondem às autorizadas para o navio. |  |
 
 ## Anexo XIII
 

@@ -8,11 +8,11 @@ year: 2002
 date: 2002-05-27
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2026-09-22
-consolidated_celex: "02002R0881-20260922"
-source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02002R0881-20260922"
+last_amended: 2026-10-10
+consolidated_celex: "02002R0881-20261010"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02002R0881-20261010"
 eli: "http://data.europa.eu/eli/reg/2002/881/oj"
-retrieved: 2026-10-21
+retrieved: 2026-11-01
 legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "regulamento-ue-2002-881"
 part: "Anexo I"
@@ -310,7 +310,7 @@ Estado Islâmico no Iraque e no Levante — Iémen (grafia original: الدول�
 
 Jund Al-Khilafah na Tunísia (JAK-T) (grafia original: جند الخلافة في تونس) (também conhecido por: a) EIIL — Tunísia; b) EIIL — Província da Tunísia; c) Soldados do Califado; d) Jund al-Khilafa; e) Jund al Khilafah; f) Jund al-Khilafah fi Tunis; g) Soldados do Califado na Tunísia; h) Tala I Jund al-Khilafah; i) Vanguarda dos Soldados do Califado; j) Daexe Tunísia; k) Ajnad). Informações suplementares: Criado em novembro de 2014. Associado ao Estado Islâmico do Iraque e do Levante (EIIL), figura na lista sob a designação Alcaida no Iraque. Data de designação referida no artigo 7.º-D, n.º 2, alínea i): 29.12.2021.
 
-KHATIBA AL-TAWHID WAL-JIHAD (KTJ) (grafia original: Катиба ат-Таухид валь-Джихад); também conhecida por: a) JANNAT OSHIKLARI; b) Jama'at al-Tawhid wal-Jihad; anteriormente conhecida por: JANNAT OSHIKLARI. Endereço: desconhecido. Outras informações: a Khatiba al-Tawhid wal-Jihad (anteriormente conhecida por Jannat Oshiklari) é uma organização terrorista que opera sob a égide da organização terrorista internacional Al-Nusrah Front for the People of the Levant. O grupo está principalmente ativo nas províncias de Hama, Idlib e Ladhiqiyah, na República Árabe Síria, e conduz igualmente operações na Turquia, no Quirguistão, no Usbequistão, na Federação da Rússia, no Tajiquistão, no Cazaquistão, no Egito, no Afeganistão e na Ucrânia. A KTJ conta com cerca de 500 combatentes. A KTJ também coopera com organizações terroristas como a Khatiba Imam al-Bukhari e o Islamic Jihad Group. Data de designação referida no artigo 7.º-D, n.º 2, alínea i): 7.3.2022.
+KHATIBA JAMA’AT AL-TAWHID WAL-JIHAD (KTJ) (grafia original: Катиба Джамаат ат-Таухид валь-Джихад); também conhecida por: a) JANNAT OSHIKLARI; b) Jama'at al-Tawhid wal-Jihad' (ﺟﻤﺎﻋﺔ اﻟﺘﻮﺣﯿﺪ واﻟﺠﮭﺎد); c) Katiba al-Tawhid wal-Jihad (ﻛﺘﯿﺒﺔ اﻟﺘﻮﺣﯿﺪ واﻟﺠﮭﺎد). Informações suplementares: a Khatiba al-Tawhid wal-Jihad (anteriormente conhecida por Jannat Oshiklari) é uma organização terrorista que opera sob a égide da organização terrorista internacional Al-Nusrah Front for the People of the Levant. O grupo está principalmente ativo nas províncias de Hama, Idlib e Ladhiqiyah, na República Árabe Síria, e conduz igualmente operações na Turquia, no Quirguistão, no Usbequistão, na Federação da Rússia, no Tajiquistão, no Cazaquistão, no Egito, no Afeganistão e na Ucrânia. A KTJ conta com cerca de 500 combatentes. A KTJ também coopera com organizações terroristas como a Khatiba Imam al-Bukhari e o Islamic Jihad Group. Data de designação referida no artigo 7.º-D, n.º 2, alínea i): 7.3.2022.
 
 Estado Islâmico do Iraque e do Levante no Sudeste Asiático (EIIL-SEA, EIIL-Sudeste Asiático) (também conhecido por: a) Divisão do Estado Islâmico da Ásia Oriental; b) Dawlatul Islamiyah Waliyatul Mashriq). Outras informações: Constituído em junho de 2016, por anúncio de Isnilon Hapilon, já falecido. Associado ao Estado Islâmico do Iraque e do Levante. Data de designação referida no artigo 7.º-D, n.º 2, alínea i): 27.1.2023.
 

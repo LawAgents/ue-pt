@@ -83,4 +83,4 @@
 | indice-regulamentos-2025-a.md | Regulamento | 2025 | 2025 | 84 |
 | indice-regulamentos-2025-b.md | Regulamento | 2025 | 2025 | 63 |
 | indice-regulamentos-2026-a.md | Regulamento | 2026 | 2026 | 83 |
-| indice-regulamentos-2026-b.md | Regulamento | 2026 | 2026 | 25 |
+| indice-regulamentos-2026-b.md | Regulamento | 2026 | 2026 | 26 |
