@@ -8,11 +8,11 @@ year: 2012
 date: 2012-03-09
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2026-08-18
-consolidated_celex: "02012R0231-20260818"
-source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02012R0231-20260818"
+last_amended: 2026-11-08
+consolidated_celex: "02012R0231-20261108"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02012R0231-20261108"
 eli: "http://data.europa.eu/eli/reg/2012/231/oj"
-retrieved: 2026-10-21
+retrieved: 2026-11-08
 legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
 ---
 

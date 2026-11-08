@@ -8,11 +8,11 @@ year: 2012
 date: 2012-03-09
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2026-08-18
-consolidated_celex: "02012R0231-20260818"
-source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02012R0231-20260818"
+last_amended: 2026-11-08
+consolidated_celex: "02012R0231-20261108"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02012R0231-20261108"
 eli: "http://data.europa.eu/eli/reg/2012/231/oj"
-retrieved: 2026-10-21
+retrieved: 2026-11-08
 legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "regulamento-ue-2012-231"
 part: "Anexo"
@@ -3910,6 +3910,35 @@ Nota: esta especificação refere-se a uma solução aquosa a 75 %
 | Critérios microbiológicos |  |
 | Salmonella sp. | Teor não detetável em 25 g |
 | Escherichia coli | Teor não detetável em 1 g |
+
+| E 424 CURDLANA |  |
+|---|---|
+| Sinónimos | (1 → 3)-β-D-Glucano |
+| Definição | A curdlana é um polissacárido de elevado peso molecular composto por unidades de glucose ligadas entre si por ligações β-1,3, produzido via fermentação em cultura pura por Rhizobium radiobacter biovar 1 estirpe NTK-u não patogénico e não toxicogénico. A curdlana é composta por resíduos de glucose com ligações β-(1,3) e tem a propriedade invulgar de formar um gel elástico após ser aquecida em solução aquosa. A curdlana em bruto é purificada através de várias etapas, que incluem a dissolução alcalina e a cristalização em metanol. A solução cristalizada é submetida a etapas de purificação, ou seja, centrifugação, lavagem e nova centrifugação. Em seguida, o produto é seco, moído e peneirado para obter o produto final. |
+| Número CAS | 54724-00-4 |
+| Fórmula química | H•(C6H10O5)n•OH |
+| Peso molecular médio | Não inferior a 1,4 × 106 Da |
+| Ensaio (calculado como glucose anidra) | Não inferior a 80 % |
+| Descrição | Pó inodoro ou quase inodoro, de cor branca ou quase branca |
+| Identificação |  |
+| Solubilidade | Insolúvel em água e etanol |
+| Solubilidade em álcalis | Ensaio positivo <br> Suspender 0,2 g da amostra em 5 ml de água, adicionar 1 ml de hidróxido de sódio 3 N e agitar. A amostra dissolve-se. |
+| Formação de gel | Aquecer uma suspensão aquosa a 2 % da amostra num banho-maria em ebulição durante 10 minutos e arrefecer. Forma-se um gel firme. |
+| Formação de precipitado com tartarato de cobre | Ensaio positivo |
+| pH | 6,0-7,5 (solução aquosa a 1 %) |
+| Força do gel | Não inferior a 600 g/cm2 |
+| Pureza |  |
+| Perda por secagem | Não superior a 10 % |
+| Resíduo de incineração | Não superior a 6 % |
+| Cinzas sulfatadas | Teor não superior a 6 % |
+| Nitrogénio | Teor não superior a 0,3 % |
+| Arsénio | Teor não superior a 0,05 mg/kg |
+| Chumbo | Teor não superior a 0,2 mg/kg |
+| Metanol | Teor não superior a 10 mg/kg |
+| Critérios microbiológicos |  |
+| Contagem total em placa | Não superior a 1 000 UFC/g |
+| Coliformes | Ausente em 1 g |
+| Escherichia coli | Ausente em 1 g |
 
 **E 425 (i) GOMA DE KONJAC**
 
@@ -7982,7 +8011,7 @@ Os critérios de pureza são aplicáveis a aditivos isentos de sais de sódio, p
 
 **E 960c(ii) REBAUDIÓSIDO M PRODUZIDO ATRAVÉS DA CONVERSÃO ENZIMÁTICA DE EXTRATOS ALTAMENTE PURIFICADOS DE REBAUDIÓSIDO A OBTIDOS DE FOLHAS DE ESTÉVIA**
 
-<table> <tbody> <tr> <td>Sinónimos</td> <td colspan="3"></td> </tr> <tr> <td>Definição</td> <td colspan="3">O rebaudiósido M produzido através da conversão enzimática de extratos altamente purificados de rebaudiósido A obtidos de folhas de estévia é um glicosídeo de esteviol composto predominantemente por rebaudiósido M com pequenas quantidades de outros glicosídeos de esteviol, como o rebaudiósido A e o rebaudiósido D. O rebaudiósido M é produzido através da conversão enzimática de extratos altamente purificados do glicosídeo de esteviol rebaudiósido A (95 % de glicosídeos de esteviol) obtidos da planta Stevia rebaudiana Bertoni utilizando as enzimas UDP-glucosiltransferase e sacarose sintase produzidas pelas estirpes geneticamente modificadas de E. coli (pPM294, pFAF170 e pSK401), que facilitam a transferência de glucose a partir de sacarose e de UDP-glucose para glicosídeos de esteviol através de ligações glicosídicas. Após remoção das enzimas por separação sólido-líquido e tratamento térmico, a purificação envolve a concentração do rebaudiósido M por adsorção em resina, seguida de recristalização dos glicosídeos de esteviol de que resulte um produto final que contenha, pelo menos, 95 % de rebaudiósido M. Células viáveis E. coli (pPM294, pFAF170 e pSK401) ou o seu ADN não devem ser detetadas no aditivo alimentar.</td> </tr> <tr> <td>Denominação química</td> <td colspan="3">Rebaudiósido M: éster de 2-O-β-D-glucopiranosil-3-O-β-D-glucopiranosil-β-D-glucopiranosilo do ácido 13-[(2-O-β-D-glucopiranosil-3-O-β-D-glucopiranosil-β-D-glucopiranosil)oxi]caur-16-en-18-oico</td> </tr> <tr> <td rowspan="2">Fórmula molecular</td> <td>Nome comum</td> <td>Fórmula</td> <td>Fator de conversão</td> </tr> <tr> <td>Rebaudiósido M</td> <td>C56H90O33</td> <td>0,25</td> </tr> <tr> <td rowspan="2">Massa molecular e n.º CAS</td> <td>Nome comum</td> <td>Número CAS</td> <td>Massa molecular (g/mol)</td> </tr> <tr> <td>Rebaudiósido M</td> <td>1220616-44-3</td> <td>1 291,29</td> </tr> <tr> <td>Composição</td> <td colspan="3">Teor não inferior a 95 % de rebaudiósido M, numa base seca.</td> </tr> <tr> <td>Descrição</td> <td colspan="3">Produto pulverulento, de cor branca a amarela clara, cerca de 150 a 350 vezes mais doce do que a sacarose (equivalente à sacarose a 5 %).</td> </tr> <tr> <td colspan="4">Identificação</td> </tr> <tr> <td>Solubilidade</td> <td colspan="3">Muito solúvel a ligeiramente solúvel em água</td> </tr> <tr> <td>pH</td> <td colspan="3">Entre 4,5 e 7,0 (solução 1:100)</td> </tr> <tr> <td colspan="4">Pureza</td> </tr> <tr> <td>Cinzas totais</td> <td colspan="3">Teor não superior a 1 %</td> </tr> <tr> <td>Perda por secagem</td> <td colspan="3">Não superior a 6 % (105 °C, durante 2 horas)</td> </tr> <tr> <td>Solventes residuais</td> <td colspan="3">Teor de etanol não superior a 5 000 mg/kg</td> </tr> <tr> <td>Arsénio</td> <td colspan="3">Teor não superior a 0,015 mg/kg</td> </tr> <tr> <td>Chumbo</td> <td colspan="3">Teor não superior a 0,2 mg/kg</td> </tr> <tr> <td>Cádmio</td> <td colspan="3">Teor não superior a 0,015 mg/kg</td> </tr> <tr> <td>Mercúrio</td> <td colspan="3">Teor não superior a 0,07 mg/kg</td> </tr> <tr> <td>Proteínas residuais</td> <td colspan="3">Teor não superior a 5 mg/kg</td> </tr> <tr> <td>Granulometria</td> <td colspan="3">Não inferior a 74 μm [utilizando um crivo de malha #200 com um limite de dimensão das partículas de 74 μm]</td> </tr> </tbody> </table>
+<table> <tbody> <tr> <td>Sinónimos</td> <td colspan="3"></td> </tr> <tr> <td colspan="4"></td> </tr> <tr> <td>Definição</td> <td colspan="3">O rebaudiósido M produzido através da conversão enzimática de extratos altamente purificados de rebaudiósido A obtidos de folhas de estévia é um glicosídeo de esteviol composto predominantemente por rebaudiósido M com pequenas quantidades de outros glicosídeos de esteviol, como o rebaudiósido A, o rebaudiósido B e o rebaudiósido D. O rebaudiósido M é produzido através da conversão enzimática de extratos altamente purificados do glicosídeo de esteviol rebaudiósido A (95 % de glicosídeos de esteviol) obtidos da planta Stevia rebaudiana Bertoni utilizando as enzimas UDP-glucosiltransferase e sacarose sintase produzidas pelas estirpes geneticamente modificadas de E. coli (pPM294, pFAF170 e pSK401) ou de K. phaffii (CGMCC 7539), que facilitam a transferência de glucose a partir de sacarose e de UDP-glucose para glicosídeos de esteviol através de ligações glicosídicas. Após remoção das enzimas por separação sólido-líquido e tratamento térmico, a purificação envolve a concentração do rebaudiósido M por adsorção em resina, seguida de recristalização dos glicosídeos de esteviol de que resulte um produto final que contenha, pelo menos, 95 % de rebaudiósido M. Não podem ser detetadas no aditivo alimentar células viáveis de E. coli (pPM294, pFAF170 e pSK401) ou de K. phaffii (CGMCC 7539) e respetivo ADN.</td> </tr> <tr> <td colspan="4"></td> </tr> <tr> <td>Denominação química</td> <td colspan="3">Rebaudiósido M: éster de 2-O-β-D-glucopiranosil-3-O-β-D-glucopiranosil-β-D-glucopiranosilo do ácido 13-[(2-O-β-D-glucopiranosil-3-O-β-D-glucopiranosil-β-D-glucopiranosil)oxi]caur-16-en-18-oico</td> </tr> <tr> <td rowspan="2">Fórmula molecular</td> <td>Nome comum</td> <td>Fórmula</td> <td>Fator de conversão</td> </tr> <tr> <td>Rebaudiósido M</td> <td>C56H90O33</td> <td>0,25</td> </tr> <tr> <td rowspan="2">Massa molecular e n.º CAS</td> <td>Nome comum</td> <td>Número CAS</td> <td>Massa molecular (g/mol)</td> </tr> <tr> <td>Rebaudiósido M</td> <td>1220616-44-3</td> <td>1 291,29</td> </tr> <tr> <td>Composição</td> <td colspan="3">Teor não inferior a 95 % de rebaudiósido M, numa base seca.</td> </tr> <tr> <td>Descrição</td> <td colspan="3">Produto pulverulento, de cor branca a amarela clara, cerca de 150 a 350 vezes mais doce do que a sacarose (equivalente à sacarose a 5 %).</td> </tr> <tr> <td colspan="4">Identificação</td> </tr> <tr> <td>Solubilidade</td> <td colspan="3">Muito solúvel a ligeiramente solúvel em água</td> </tr> <tr> <td>pH</td> <td colspan="3">Entre 4,5 e 7,0 (solução 1:100)</td> </tr> <tr> <td colspan="4">Pureza</td> </tr> <tr> <td>Cinzas totais</td> <td colspan="3">Teor não superior a 1 %</td> </tr> <tr> <td>Perda por secagem</td> <td colspan="3">Não superior a 6 % (105 °C, durante 2 horas)</td> </tr> <tr> <td>Solventes residuais</td> <td colspan="3">Teor de etanol não superior a 5 000 mg/kg</td> </tr> <tr> <td colspan="4"></td> </tr> <tr> <td>Ácido caurenoico</td> <td colspan="3">Teor não superior a 0,3 mg/kg (medido por cromatografia líquida — deteção por espetrometria de massa)</td> </tr> <tr> <td colspan="4"></td> </tr> <tr> <td>Arsénio</td> <td colspan="3">Teor não superior a 0,015 mg/kg</td> </tr> <tr> <td>Chumbo</td> <td colspan="3">Teor não superior a 0,2 mg/kg</td> </tr> <tr> <td>Cádmio</td> <td colspan="3">Teor não superior a 0,015 mg/kg</td> </tr> <tr> <td>Mercúrio</td> <td colspan="3">Teor não superior a 0,07 mg/kg</td> </tr> <tr> <td>Proteínas residuais</td> <td colspan="3">Teor não superior a 5 mg/kg</td> </tr> <tr> <td>Granulometria</td> <td colspan="3">Não inferior a 74 μm [utilizando um crivo de malha #200 com um limite de dimensão das partículas de 74 μm]</td> </tr> </tbody> </table>
 
 **E 960c(iii) REBAUDIÓSIDO D PRODUZIDO ATRAVÉS DA CONVERSÃO ENZIMÁTICA DE EXTRATOS ALTAMENTE PURIFICADOS DE REBAUDIÓSIDO A OBTIDOS DE FOLHAS DE ESTÉVIA**
 

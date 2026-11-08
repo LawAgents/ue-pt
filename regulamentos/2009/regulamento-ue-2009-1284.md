@@ -8,11 +8,11 @@ year: 2009
 date: 2009-12-22
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2024-09-13
-consolidated_celex: "02009R1284-20240913"
-source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02009R1284-20240913"
+last_amended: 2026-10-15
+consolidated_celex: "02009R1284-20261015"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02009R1284-20261015"
 eli: "http://data.europa.eu/eli/reg/2009/1284/oj"
-retrieved: 2026-10-21
+retrieved: 2026-11-08
 legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
 ---
 
@@ -259,8 +259,7 @@ O presente regulamento é obrigatório em todos os seus elementos e directamente
 | 1. | Capitão Moussa Dadis CAMARA | Data de nascimento: 1.1.1964 ou 29.12.1968 <br> Passaporte n.º: R0001318 <br> Sexo: masculino <br> Endereço: Uagadugu (Burquina Fasso) <br> Cargo ou profissão: Antigo militar e chefe da junta militar do CNDD (Conseil National pour la Democratie et le Developpement — Comité Nacional para a Democracia e o Desenvolvimento) | Pessoa identificada pela Comissão Internacional de Inquérito como sendo responsável pelos acontecimentos ocorridos na Guiné em 28 de setembro de 2009 |
 | 2. | Coronel Moussa Tiégboro CAMARA <br> Também conhecido por: Moussa Thiegboro CAMARA | Data de nascimento: 1.1.1968 <br> Passaporte n.º: 7190 <br> Sexo: masculino <br> Cargo ou profissão: secretário-geral, presidência da República da Guiné | Pessoa identificada pela Comissão Internacional de Inquérito como sendo responsável pelos acontecimentos ocorridos na Guiné em 28 de setembro de 2009 |
 | 3. | Coronel dr. Abdoulaye Chérif DIABY | Data de nascimento: 26.2.1957 <br> Passaporte n.º: 13683 <br> Sexo: masculino <br> Cargo ou profissão: médico militar | Pessoa identificada pela Comissão Internacional de Inquérito como sendo responsável pelos acontecimentos ocorridos na Guiné em 28 de setembro de 2009 |
-| 4. | Capitão Aboubacar Chérif (também conhecido por Toumba) DIAKITÉ | Sexo: masculino <br> Endereço: Conacri (República da Guiné) <br> Cargo ou profissão: antigo militar <br> Outras informações: detido | Pessoa identificada pela Comissão Internacional de Inquérito como sendo responsável pelos acontecimentos ocorridos na Guiné em 28 de setembro de 2009 |
-| 5. | Coronel Jean-Claude PIVI (também conhecido por Coplan) | Data de nascimento: 1.1.1960 <br> Sexo: masculino <br> Cargo ou profissão: ministro responsável pela Segurança Presidencial | Pessoa identificada pela Comissão Internacional de Inquérito como sendo responsável pelos acontecimentos ocorridos na Guiné em 28 de setembro de 2009 |
+| ————— |  |  |  |
 
 ## Anexo III
 

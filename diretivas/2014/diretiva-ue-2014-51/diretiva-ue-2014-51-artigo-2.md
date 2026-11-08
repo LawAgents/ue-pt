@@ -7,10 +7,12 @@ number: "2014/51"
 year: 2014
 date: 2014-04-16
 status: "em vigor"
-text_version: "original sem consolidação"
-source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32014L0051"
+text_version: "consolidado"
+last_amended: 2014-05-22
+consolidated_celex: "02014L0051-20140522"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02014L0051-20140522"
 eli: "http://data.europa.eu/eli/dir/2014/51/oj"
-retrieved: 2026-10-21
+retrieved: 2026-11-08
 legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "diretiva-ue-2014-51"
 part: "Artigo 2.º"
@@ -26,16 +28,19 @@ A Diretiva 2009/138/CE é alterada do seguinte modo:
 
 a) É inserido o seguinte ponto:
 
-| «32-A. | “Contraparte central qualificada”, uma contraparte central autorizada nos termos do artigo 14.º do Regulamento (UE) n.º 648/2012 do Parlamento Europeu e do Conselho (*1) ou reconhecida nos termos do artigo 25.º desse regulamento; |
-|---|---|
+«32-A. “Contraparte central qualificada”, uma contraparte central autorizada nos termos do artigo 14.º do Regulamento (UE) n.º 648/2012 do Parlamento Europeu e do Conselho (
 
-(*1) Regulamento (UE) n.º 648/2012 do Parlamento Europeu e do Conselho, de 4 de julho de 2012, relativo aos derivados do mercado de balcão, às contrapartes centrais e aos repositórios de transações (JO L 201 de 27.7.2012, p. 1)»;"
+\*1
+
+) ou reconhecida nos termos do artigo 25.º desse regulamento;
 
 b) É aditado o seguinte ponto:
 
-«40. “Agência de notação externa” ou “ECAI”, uma agência de notação de risco registada ou certificada nos termos do Regulamento (CE) n.º 1060/2009 do Parlamento Europeu e do Conselho (*2) ou um banco central que emita notações de risco isentas da aplicação desse regulamento.
+«40. “Agência de notação externa” ou “ECAI”, uma agência de notação de risco registada ou certificada nos termos do Regulamento (CE) n.º 1060/2009 do Parlamento Europeu e do Conselho (
 
-(*2) Regulamento (CE) n.º 1060/2009 do Parlamento Europeu e do Conselho, de 16 de setembro de 2009, relativo às agências de notação de risco (JO L 302 de 17.11.2009, p. 1).»."
+\*2
+
+) ou um banco central que emita notações de risco isentas da aplicação desse regulamento.
 
 2) No artigo 17.º, o n.º 3 passa a ter a seguinte redação:
 
@@ -47,9 +52,11 @@ b) É aditado o seguinte ponto:
 
 Notificação e publicação das autorizações ou retiradas de autorizações
 
-Todas as autorizações ou retiradas de autorizações devem ser notificadas à Autoridade Europeia de Supervisão (Autoridade Europeia dos Seguros e Pensões Complementares de Reforma) (EIOPA) criada pela Regulamento (UE) n.º 1094/2010 do Parlamento Europeu e do Conselho (*3). O nome de cada empresa de seguros ou resseguros à qual tenha sido concedida uma autorização deve ser inscrito numa lista. A EIOPA deve publicar essa lista no seu sítio web e mantê-la atualizada.
+Todas as autorizações ou retiradas de autorizações devem ser notificadas à Autoridade Europeia de Supervisão (Autoridade Europeia dos Seguros e Pensões Complementares de Reforma) (EIOPA) criada pela Regulamento (UE) n.º 1094/2010 do Parlamento Europeu e do Conselho (
 
-(*3) Regulamento (UE) n.º 1094/2010 do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, que cria uma Autoridade Europeia de Supervisão (Autoridade Europeia dos Seguros e Pensões Complementares de Reforma), altera a Decisão n.º 716/2009/CE e revoga a Decisão 2009/79/CE da Comissão (JO L 331 de 15.12.2010, p. 48).»."
+\*3
+
+). O nome de cada empresa de seguros ou resseguros à qual tenha sido concedida uma autorização deve ser inscrito numa lista. A EIOPA deve publicar essa lista no seu sítio web e mantê-la atualizada.
 
 4) No artigo 29.º, o n.º 4 passa a ter a seguinte redação:
 
@@ -369,13 +376,15 @@ a) Aos bancos centrais do Sistema Europeu de Bancos Centrais (SEBC), incluindo o
 
 b) Se for caso disso, a outras autoridades públicas nacionais responsáveis pela fiscalização dos sistemas de pagamento; e
 
-c) Ao Comité Europeu do Risco Sistémico (ESRB), criado pelo Regulamento (UE) n.º 1092/2010 do Parlamento Europeu e do Conselho (*4), se essas informações forem relevantes para o exercício das suas atribuições.
+c) Ao Comité Europeu do Risco Sistémico (ESRB), criado pelo Regulamento (UE) n.º 1092/2010 do Parlamento Europeu e do Conselho (
+
+\*4
+
+), se essas informações forem relevantes para o exercício das suas atribuições.
 
 2. Numa situação de emergência, nomeadamente nas situações a que se refere o artigo 18.º do Regulamento (UE) n.º 1094/2010, os Estados-Membros devem permitir que as autoridades de supervisão transmitam sem demora informações aos bancos centrais do SEBC, incluindo o BCE, caso tais informações sejam relevantes para o exercício das respetivas atribuições legais, nomeadamente a aplicação da política monetária e a disponibilização de liquidez daí decorrente, a fiscalização dos sistemas de pagamento, compensação e liquidação de valores mobiliários e a salvaguarda da estabilidade do sistema financeiro, bem como ao ESRB, caso tais informações sejam relevantes para o exercício das suas atribuições.
 
 3. As referidas autoridades e organismos podem igualmente comunicar às autoridades de supervisão as informações de que estas necessitem para efeitos do artigo 67.º. As informações recebidas neste contexto ficam sujeitas ao sigilo profissional a que se refere a presente secção.
-
-(*4) Regulamento (UE) n.º 1092/2010 do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, relativo à supervisão macroprudencial do sistema financeiro na União Europeia e que cria o Comité Europeu do Risco Sistémico (JO L 331 de 15.12.2010, p. 1).»."
 
 21) O artigo 71.º é alterado do seguinte modo:
 
@@ -725,8 +734,7 @@ e) Caso as empresas de seguros e de resseguros utilizem técnicas de redução d
 
 f) Os critérios qualitativos que as técnicas de redução de risco referidas na alínea e) devem respeitar para assegurar que o risco seja efetivamente transferido para terceiros;
 
-| f-A) | O método e os parâmetros a utilizar na avaliação do requisito de fundos próprios a título do risco de incumprimento pela contraparte relativamente às posições em risco sobre contrapartes centrais qualificadas. Estes parâmetros são definidos de forma a assegurar a coerência com o tratamento previsto dessas posições em risco quando se trata de instituições de crédito e de instituições financeiras na aceção do artigo 4.º, n.º 1, pontos 1 e 26, do Regulamento (UE) n.º 575/2013; |
-|---|---|
+f-A) O método e os parâmetros a utilizar na avaliação do requisito de fundos próprios a título do risco de incumprimento pela contraparte relativamente às posições em risco sobre contrapartes centrais qualificadas. Estes parâmetros são definidos de forma a assegurar a coerência com o tratamento previsto dessas posições em risco quando se trata de instituições de crédito e de instituições financeiras na aceção do artigo 4.º, n.º 1, pontos 1 e 26, do Regulamento (UE) n.º 575/2013;
 
 g) Os métodos e parâmetros a utilizar na avaliação do requisito de capital para riscos operacionais definido no artigo 107.º, incluindo a percentagem referida no n.º 3 do mesmo artigo;
 
@@ -1214,7 +1222,7 @@ a) Quanto à aprovação do plano de recuperação, incluindo qualquer prorroga�
 
 b) Quanto à aprovação das medidas propostas no prazo de um mês referido no n.º 2.
 
-In those cases, EIOPA may act in accordance with the powers conferred to it by that Article, and shall take its decision within one month of such referral.
+Nesses casos, a EIOPA pode exercer as competências que lhe são conferidas por esse artigo, devendo tomar a sua decisão no prazo de um mês a contar da apresentação do pedido.
 
 O assunto não pode ser remetido à EIOPA:
 
@@ -1504,7 +1512,11 @@ b) Um dos métodos previstos no n.º 2.».
 
 Procedimento de comité
 
-1. A Comissão é assistida pelo Comité Europeu dos Seguros e Pensões Complementares de Reforma criado pela Decisão 2004/9/CE da Comissão (*5). Esse comité deve ser entendido como comité na aceção de Regulamento (UE) n.º 182/2011.
+1. A Comissão é assistida pelo Comité Europeu dos Seguros e Pensões Complementares de Reforma criado pela Decisão 2004/9/CE da Comissão (
+
+\*5
+
+). Esse comité deve ser entendido como comité na aceção de Regulamento (UE) n.º 182/2011.
 
 2. Caso se faça referência ao presente número, aplica-se o artigo 4.º do Regulamento (UE) n.º 182/2011.
 
@@ -1541,8 +1553,6 @@ Disposição sobre a aplicação diferida de normas técnicas de regulamentaçã
 Os referidos projetos de normas técnicas de regulamentação limitam-se aos aspetos técnicos dos atos delegados referidos no primeiro parágrafo, nos termos dos artigos 10.º e 14.º do Regulamento (UE) n.º 1094/2010.
 
 A Comissão fica habilitada a adotar as normas técnicas de regulamentação referidas no primeiro parágrafo, nos termos dos artigos 10.º a 14.º do Regulamento (UE) n.º 1094/2010.
-
-(*5) Decisão 2004/9/CE da Comissão, de 5 de novembro de 2003, que institui o Comité Europeu dos Seguros e Pensões Complementares de Reforma (JO L 3 de 7.1.2004, p. 34).»."
 
 79) No artigo 304.º, o n.º 2 passa a ter a seguinte redação:
 
@@ -1828,9 +1838,11 @@ A Comissão pode adotar atos delegados e normas técnicas de regulamentação e 
 
 «(28) Em qualquer caso e como alternativa às formas de empresas de seguro não vida enumeradas nos pontos 1 a 27 e 29, a forma de Sociedade Europeia (SE), definida no Regulamento (CE) n.º 2157/2001 do Conselho (1);
 
-(29) Na medida em que o Estado-Membro em causa permita o acesso da forma jurídica de sociedade cooperativa às atividades de seguros não vida e como alternativa às formas de empresas não vida enumeradas nos pontos 1 a 28, a forma de Sociedade Cooperativa Europeia (SCE), definida no Regulamento (CE) n.º 1435/2003 do Conselho (*6).
+(29) Na medida em que o Estado-Membro em causa permita o acesso da forma jurídica de sociedade cooperativa às atividades de seguros não vida e como alternativa às formas de empresas não vida enumeradas nos pontos 1 a 28, a forma de Sociedade Cooperativa Europeia (SCE), definida no Regulamento (CE) n.º 1435/2003 do Conselho (
 
-(*6) Regulamento (CE) n.º 1435/2003 do Conselho, de 22 de julho de 2003, relativo ao estatuto da Sociedade Cooperativa Europeia (SCE) (JO L 207 de 18.8.2003, p. 1).»."
+\*6
+
+).
 
 85) No Anexo III, parte B, o ponto 28 é substituído pelo seguinte texto:
 

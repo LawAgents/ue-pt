@@ -7,10 +7,12 @@ number: "2014/51"
 year: 2014
 date: 2014-04-16
 status: "em vigor"
-text_version: "original sem consolidação"
-source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32014L0051"
+text_version: "consolidado"
+last_amended: 2014-05-22
+consolidated_celex: "02014L0051-20140522"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02014L0051-20140522"
 eli: "http://data.europa.eu/eli/dir/2014/51/oj"
-retrieved: 2026-10-21
+retrieved: 2026-11-08
 legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
 ---
 
@@ -20,14 +22,9 @@ Este ato está dividido em partes. Cada parte é um ficheiro; os números de art
 
 | parte | caminho | primeiro artigo | último artigo |
 |---|---|---|---|
-| Considerandos a Artigo 1.º | diretivas/2014/diretiva-ue-2014-51/diretiva-ue-2014-51-considerandos-a-artigo-1.md | 1.º | 1.º |
+| Artigo 1.º | diretivas/2014/diretiva-ue-2014-51/diretiva-ue-2014-51-artigo-1.md | 1.º | 1.º |
 | Artigo 2.º | diretivas/2014/diretiva-ue-2014-51/diretiva-ue-2014-51-artigo-2.md | 2.º | 2.º |
-| Artigo 3.º a Assinatura | diretivas/2014/diretiva-ue-2014-51/diretiva-ue-2014-51-artigo-3-a-assinatura.md | 3.º | 9.º |
-
-## Estrutura
-
-- Considerandos (diretiva-ue-2014-51-considerandos-a-artigo-1.md)
-- Assinatura (diretiva-ue-2014-51-artigo-3-a-assinatura.md)
+| Artigos 3.º a 9.º | diretivas/2014/diretiva-ue-2014-51/diretiva-ue-2014-51-artigos-3-a-9.md | 3.º | 9.º |
 
 ## Transposição para Portugal
 

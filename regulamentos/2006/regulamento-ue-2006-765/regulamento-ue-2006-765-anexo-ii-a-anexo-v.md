@@ -8,11 +8,11 @@ year: 2006
 date: 2006-05-18
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2026-07-24
-consolidated_celex: "02006R0765-20260724"
-source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02006R0765-20260724"
+last_amended: 2026-10-15
+consolidated_celex: "02006R0765-20261015"
+source: "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02006R0765-20261015"
 eli: "http://data.europa.eu/eli/reg/2006/765/oj"
-retrieved: 2026-10-21
+retrieved: 2026-11-08
 legal_notice: "Texto sem valor legal: só o Jornal Oficial da União Europeia faz fé. Confirma no EUR-Lex antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "regulamento-ue-2006-765"
 part: "Anexo II a Anexo V"
